@@ -1,12 +1,53 @@
 {
   "promotions": [
     {
+      "gameTitle": "Flying Spider Hero",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.flying.man.spider.hero.games.pro",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.man.spider.hero.games.pro",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHeroAmazon.jpg",
+      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4"
+    },
+    {
+      "gameTitle": "Flying Spider 2",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.flying.spider.two.pro",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.spider.two.pro",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/FlyingSpider2.jpg",
+      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4"
+    },
+    {
+      "gameTitle": "Fast Cars Race",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.FastCarsRace",
+      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.FastCarsRace",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/FormulaRacing.mp4"
+    },
+    {
+      "gameTitle": "Rally Racing",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.RallyRacingCarDrift",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.RallyRacingCarDrift.pro",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/RallyRacing.mp4"
+    },
+    {
+      "gameTitle": "Formula Racing",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.GrandPrixConceptFormula",
+      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.GrandPrixConceptFormula",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/FormulaRacing.mp4"
+    }
+,
+    {
       "gameTitle": "Bistro Empire",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.BistroFoodBlast",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.BistroFoodBlast",
       "iosAppStoreURL": "https://apps.apple.com/app/id6447681998",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/BistroEmpire.png",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/FormulaRacing.mp4"
+      "videoURL": ""
     },
     {
       "gameTitle": "Island Quest",
@@ -14,7 +55,7 @@
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.IslandSurvivors",
       "iosAppStoreURL": "https://apps.apple.com/app/id6753180712",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/IslandQuest.png",
-      "videoURL": ""
+      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/IslandQuest.mp4"
     },
     {
       "gameTitle": "Panther Hero",
