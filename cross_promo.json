@@ -96,6 +96,14 @@
       "iosAppStoreURL": "https://apps.apple.com/app/id1447410798",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/CoverStick.png",
       "videoURL": ""
+    },
+    {
+      "gameTitle": "Boxing Stars",
+      "googlePlayURL": "",
+      "amazonStoreURL": "amzn://apps/android?asin=B0GS6748HN",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/boxing_stars_cover.png",
+      "videoURL": ""
     }
   ]
 }
