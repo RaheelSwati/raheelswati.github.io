@@ -9,6 +9,14 @@
       "isAmazonPaid": true
     },
     {
+      "gameTitle": "Unscrew Jam 3D",
+      "googlePlayURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.ama.extrudegaming.unscrewtap.hexajam3d",
+      "imageURL": "https://raheelswati.github.io/promo/Unscrew%20Jam.jpg",
+      "videoURL": "",
+      "isAmazonPaid": false
+    },
+    {
       "gameTitle": "Fast Cars Race Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.WaterSlide",
       "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.GrandPrixConceptFormulaPro",
