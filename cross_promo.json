@@ -86,13 +86,13 @@
       "isAmazonPaid": false
     },
     {
-      "gameTitle": "Stickman Detective Pro",
+      "gameTitle": "Stickman Detective",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.MonsterTruck",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.Stickman.Detective.Rope.Super.Hero",
       "iosAppStoreURL": "https://apps.apple.com/app/id1447410798",
       "imageURL": "https://raheelswati.github.io/promo/CoverStick.png",
       "videoURL": "",
-      "isAmazonPaid": true
+      "isAmazonPaid": false
     }
   ]
 }
