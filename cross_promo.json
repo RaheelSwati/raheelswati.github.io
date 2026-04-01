@@ -7,7 +7,7 @@
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHeroAmazon.jpg",
       "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Flying Spider 2",
@@ -16,7 +16,7 @@
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/FlyingSpider2.jpg",
       "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Fast Cars Race",
@@ -25,7 +25,7 @@
       "iosAppStoreURL": "",
       "imageURL": "",
       "videoURL": "https://raheelswati.github.io/extrudestudio/promo/FormulaRacing.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Rally Racing",
@@ -34,7 +34,7 @@
       "iosAppStoreURL": "",
       "imageURL": "",
       "videoURL": "https://raheelswati.github.io/extrudestudio/promo/RallyRacing.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Formula Racing",
@@ -43,7 +43,7 @@
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHeroAmazon.jpg",
       "videoURL": "https://raheelswati.github.io/extrudestudio/promo/FormulaRacing.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Bistro Empire",
@@ -79,7 +79,7 @@
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/FreezoHero.png",
       "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Spider Girl Hero",
@@ -88,7 +88,7 @@
       "iosAppStoreURL": "https://apps.apple.com/app/id1497753857",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/IronRobot.jpg",
       "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Santa Rope Hero",
