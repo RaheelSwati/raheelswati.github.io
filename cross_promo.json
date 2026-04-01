@@ -15,7 +15,7 @@
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.man.spider.hero.games.pro",
       "imageURL": "https://raheelswati.github.io/promo/SpiderHeroAmazon.jpg",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Rally Racing Pro",
@@ -23,7 +23,7 @@
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.RallyRacingCarDrift.pro",
       "imageURL": "https://raheelswati.github.io/promo/RallyRacing.jpg",
       "videoURL": "https://raheelswati.github.io/promo/RallyRacing.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Formula Racing Pro",
@@ -31,7 +31,7 @@
       "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.GrandPrixConceptFormulaPro",
       "imageURL": "https://raheelswati.github.io/promo/SpiderHeroAmazon.jpg",
       "videoURL": "https://raheelswati.github.io/promo/FormulaRacing.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Bistro Empire",
@@ -65,7 +65,7 @@
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.Freezo.Snow.Storm.pro",
       "imageURL": "https://raheelswati.github.io/promo/FreezoHero.png",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Spider Girl Hero Pro",
@@ -74,7 +74,7 @@
       "iosAppStoreURL": "https://apps.apple.com/app/id1497753857",
       "imageURL": "https://raheelswati.github.io/promo/IronRobot.jpg",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     },
     {
       "gameTitle": "Santa Rope Hero",
@@ -92,7 +92,7 @@
       "iosAppStoreURL": "https://apps.apple.com/app/id1447410798",
       "imageURL": "https://raheelswati.github.io/promo/CoverStick.png",
       "videoURL": "",
-      "isAmazonPaid": false
+      "isAmazonPaid": true
     }
   ]
 }
