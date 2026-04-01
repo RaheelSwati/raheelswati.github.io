@@ -103,6 +103,78 @@
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/extrudestudio/promo/boxing_stars_cover.png",
       "videoURL": ""
+    },
+    {
+      "gameTitle": "Luxury Land Cruiser Racing",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.luxurylandCruiserRacing",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "Santa Run: Christmas Rush 3D",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.santa.christmas.run.rush",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "https://apps.apple.com/app/id1186880649",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "ASMR Pop It & Slime Fidgets",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "Supermarket Empire Tycoon 3D",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.SupermarketEmpire",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "3d Monster Truck Race 2025",
+      "googlePlayURL": "",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "https://apps.apple.com/app/id1207646506",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "Stunt Bike Racer 3D",
+      "googlePlayURL": "",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "https://apps.apple.com/app/id1205254562",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "Monster Truck vs Formula Cars",
+      "googlePlayURL": "",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "https://apps.apple.com/app/id1198011772",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "3D Fast Cars Race 2017",
+      "googlePlayURL": "",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "https://apps.apple.com/app/id1188434106",
+      "imageURL": "",
+      "videoURL": ""
+    },
+    {
+      "gameTitle": "Concept Sports Car Race 2023",
+      "googlePlayURL": "",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "https://apps.apple.com/app/id1178462658",
+      "imageURL": "",
+      "videoURL": ""
     }
   ]
 }
