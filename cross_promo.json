@@ -1,56 +1,44 @@
 {
   "promotions": [
     {
-      "gameTitle": "Flying Spider Hero",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.girl.rope.hero.spider.swing.games",
-      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.man.spider.hero.games.pro",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHeroAmazon.jpg",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": true
-    },
-    {
-      "gameTitle": "Flying Spider 2",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.panther.spider.hero",
-      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.spider.two.pro",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/FlyingSpider2.jpg",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": true
-    },
-    {
-      "gameTitle": "Fast Cars Race",
+      "gameTitle": "Fast Cars Race Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.WaterSlide",
       "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.GrandPrixConceptFormulaPro",
-      "iosAppStoreURL": "",
-      "imageURL": "",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/FormulaRacing.mp4",
+      "iosAppStoreURL": "https://apps.apple.com/app/id1188434106",
+      "imageURL": "https://raheelswati.github.io/promo/FastCarsRace.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/FormulaRacing.mp4",
       "isAmazonPaid": true
     },
     {
-      "gameTitle": "Rally Racing",
+      "gameTitle": "Flying Spider Hero Pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.girl.rope.hero.spider.swing.games",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.man.spider.hero.games.pro",
+      "imageURL": "https://raheelswati.github.io/promo/SpiderHeroAmazon.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
+      "isAmazonPaid": false
+    },
+    {
+      "gameTitle": "Rally Racing Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.KartVSFormulaGrandPrix",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.RallyRacingCarDrift.pro",
-      "iosAppStoreURL": "",
-      "imageURL": "",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/RallyRacing.mp4",
-      "isAmazonPaid": true
+      "imageURL": "https://raheelswati.github.io/promo/RallyRacing.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/RallyRacing.mp4",
+      "isAmazonPaid": false
     },
     {
-      "gameTitle": "Formula Racing",
+      "gameTitle": "Formula Racing Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.GrandPrixConceptFormula",
       "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.GrandPrixConceptFormulaPro",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHeroAmazon.jpg",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/FormulaRacing.mp4",
-      "isAmazonPaid": true
+      "imageURL": "https://raheelswati.github.io/promo/SpiderHeroAmazon.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/FormulaRacing.mp4",
+      "isAmazonPaid": false
     },
     {
       "gameTitle": "Bistro Empire",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.BistroFoodBlast",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.BistroFoodBlast",
       "iosAppStoreURL": "https://apps.apple.com/app/id6447681998",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/BistroEmpire.png",
+      "imageURL": "https://raheelswati.github.io/promo/BistroEmpire.png",
       "videoURL": "",
       "isAmazonPaid": false
     },
@@ -59,142 +47,50 @@
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.IslandSurvivors",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.IslandSurvivors",
       "iosAppStoreURL": "https://apps.apple.com/app/id6753180712",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/IslandQuest.png",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/IslandQuest.mp4",
+      "imageURL": "https://raheelswati.github.io/promo/IslandQuest.png",
+      "videoURL": "https://raheelswati.github.io/promo/IslandQuest.mp4",
       "isAmazonPaid": false
     },
     {
       "gameTitle": "Panther Hero",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.panther.spider.hero",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.panther.spider.hero",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/PantherHero.png",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
+      "imageURL": "https://raheelswati.github.io/promo/PantherHero.png",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "isAmazonPaid": false
     },
     {
-      "gameTitle": "Freezo Hero",
+      "gameTitle": "Freezo Hero Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.Freezo.Snow.Storm",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.Freezo.Snow.Storm.pro",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/FreezoHero.png",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": true
+      "imageURL": "https://raheelswati.github.io/promo/FreezoHero.png",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
+      "isAmazonPaid": false
     },
     {
-      "gameTitle": "Spider Girl Hero",
+      "gameTitle": "Spider Girl Hero Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.girl.rope.hero.spider.swing.games",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.girl.rope.hero.pro.spider.swing.games",
       "iosAppStoreURL": "https://apps.apple.com/app/id1497753857",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/IronRobot.jpg",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
-      "isAmazonPaid": true
+      "imageURL": "https://raheelswati.github.io/promo/IronRobot.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
+      "isAmazonPaid": false
     },
     {
       "gameTitle": "Santa Rope Hero",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.Crime.City.Simulator.Santa",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.Crime.City.Simulator.Santa",
       "iosAppStoreURL": "https://apps.apple.com/app/id1446427589",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/SantaRopeHero.jpg",
-      "videoURL": "https://raheelswati.github.io/extrudestudio/promo/SpiderHero.mp4",
+      "imageURL": "https://raheelswati.github.io/promo/SantaRopeHero.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "isAmazonPaid": false
     },
     {
-      "gameTitle": "Stickman Detective",
+      "gameTitle": "Stickman Detective Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.MonsterTruck",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.Stickman.Detective.Rope.Super.Hero",
       "iosAppStoreURL": "https://apps.apple.com/app/id1447410798",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/CoverStick.png",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "Boxing Stars",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.boxing",
-      "amazonStoreURL": "amzn://apps/android?p=com.extrudegaming.boxing",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/extrudestudio/promo/boxing_stars_cover.png",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "Luxury Land Cruiser Racing",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.luxurylandCruiserRacing",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "Santa Run: Christmas Rush 3D",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.santa.christmas.run.rush",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "https://apps.apple.com/app/id1186880649",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "ASMR Pop It & Slime Fidgets",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "Supermarket Empire Tycoon 3D",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.SupermarketEmpire",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "3d Monster Truck Race 2025",
-      "googlePlayURL": "",
-      "amazonStoreURL": "amzn://apps/android?p=com.Other.ExtrudeGaming.MonsterTruck",
-      "iosAppStoreURL": "https://apps.apple.com/app/id1207646506",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": true
-    },
-    {
-      "gameTitle": "Stunt Bike Racer 3D",
-      "googlePlayURL": "",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "https://apps.apple.com/app/id1205254562",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "Monster Truck vs Formula Cars",
-      "googlePlayURL": "",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "https://apps.apple.com/app/id1198011772",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": false
-    },
-    {
-      "gameTitle": "3D Fast Cars Race 2017",
-      "googlePlayURL": "",
-      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.FastCarsRace2018",
-      "iosAppStoreURL": "https://apps.apple.com/app/id1188434106",
-      "imageURL": "",
-      "videoURL": "",
-      "isAmazonPaid": true
-    },
-    {
-      "gameTitle": "Concept Sports Car Race 2023",
-      "googlePlayURL": "",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "https://apps.apple.com/app/id1178462658",
-      "imageURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/CoverStick.png",
       "videoURL": "",
       "isAmazonPaid": false
     }
