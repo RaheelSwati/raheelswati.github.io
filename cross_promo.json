@@ -127,7 +127,7 @@
       "iosAppStoreURL": "https://apps.apple.com/app/id6753180712",
       "imageURL": "https://raheelswati.github.io/promo/IslandQuest.png",
       "videoURL": "https://raheelswati.github.io/promo/IslandQuest.mp4",
-      "priority": 25,
+      "priority": 99,
       "isAmazonPaid": false
     },
     {
@@ -147,7 +147,7 @@
       "iosAppStoreURL": "https://apps.apple.com/app/id6447681998",
       "imageURL": "https://raheelswati.github.io/promo/BistroEmpire.png",
       "videoURL": "",
-      "priority": 15,
+      "priority": 98,
       "isAmazonPaid": false
     },
     {
