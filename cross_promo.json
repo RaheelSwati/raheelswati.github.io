@@ -103,7 +103,7 @@
     {
       "gameTitle": "Monster Truck Race 2025",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.MonsterTruck",
-      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.Stickman.Detective.Rope.Super.Hero",
+      "amazonStoreURL": "",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/MonsterTruck2025.jpg",
       "videoURL": "",
@@ -194,7 +194,7 @@
       "gameTitle": "Unscrew Jam 3D Pro",
       "googlePlayURL": "",
       "amazonStoreURL": "amzn://apps/android?p=com.ama.extrudegaming.unscrewtap.hexajam3d.pro",
-      "imageURL": "https://raheelswati.github.io/promo/Unscrew Jam.jpg",
+      "imageURL": "https://raheelswati.github.io/promo/UnscrewJam.jpg",
       "videoURL": "",
       "priority": 30,
       "isAmazonPaid": true
@@ -203,7 +203,7 @@
       "gameTitle": "Unscrew Jam 3D",
       "googlePlayURL": "",
       "amazonStoreURL": "amzn://apps/android?p=com.ama.extrudegaming.unscrewtap.hexajam3d",
-      "imageURL": "https://raheelswati.github.io/promo/Unscrew Jam.jpg",
+      "imageURL": "https://raheelswati.github.io/promo/UnscrewJam.jpg",
       "videoURL": "",
       "priority": 15,
       "isAmazonPaid": false
