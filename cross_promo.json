@@ -43,7 +43,7 @@
     {
       "gameTitle": "Air Robot Jet Transform",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.air.robot.plane.transformation",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.air.robot.plane.transformation",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/AirRobot.jpg",
       "videoURL": "",
@@ -53,7 +53,7 @@
     {
       "gameTitle": "Dragon Robot Transform",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.jurassic.dino.robot.flying.dragon.transform.games",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.jurassic.dino.robot.flying.dragon.transform.games",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/IronRobot.jpg",
       "videoURL": "",
@@ -63,7 +63,7 @@
     {
       "gameTitle": "Santa Run: Christmas Rush 3D",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.santa.christmas.run.rush",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.extrudegaming.santa.christmas.run.rush",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/SantaRun.jpg",
       "videoURL": "",
@@ -73,7 +73,7 @@
     {
       "gameTitle": "ASMR Pop It & Slime Fidgets",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.popIt3D",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/PopItASMR.jpg",
       "videoURL": "",
@@ -93,7 +93,7 @@
     {
       "gameTitle": "Supermarket Empire Tycoon 3D",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.SupermarketEmpire",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.SupermarketEmpire",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/SupermarketTycoon.png",
       "videoURL": "",
@@ -113,7 +113,7 @@
     {
       "gameTitle": "Ultimate Buggy Kart Race",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.KartRacing",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.amazon.ExtrudeGaming.KartRacing",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/FastCarsRace.jpg",
       "videoURL": "",
@@ -153,7 +153,7 @@
     {
       "gameTitle": "Sports Cars Water Sliding",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.WaterSlide",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.WaterSlide",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/FastCarsRace.jpg",
       "videoURL": "",
@@ -163,7 +163,7 @@
     {
       "gameTitle": "RC Toys Racing Demolition",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.ToyCarDrivingSimulator",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.ToyCarDrivingSimulator",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/FastCarsRace.jpg",
       "videoURL": "",
@@ -173,7 +173,7 @@
     {
       "gameTitle": "Luxury Land Cruiser Racing",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.luxurylandCruiserRacing",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.luxurylandCruiserRacing",
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/LandCuriser.jpg",
       "videoURL": "",
