@@ -1,0 +1,32 @@
+# Extrude Gaming Studio
+
+Extrude Gaming Studio is an independent mobile game developer creating Android, iOS, and Amazon Appstore games.
+
+Official website: https://raheelswati.github.io/
+
+Important pages:
+- Home and game portfolio: https://raheelswati.github.io/
+- Privacy policy: https://raheelswati.github.io/privacy-policy.html
+- Legacy game archive: https://extrudegaming.wordpress.com/
+
+Official profiles:
+- Google Play developer page: https://play.google.com/store/apps/dev?id=4662269381945447072
+- App Store developer page: https://apps.apple.com/us/developer/haroon-swati/id1123415467
+- Amazon Appstore games: https://www.amazon.com/s?i=mobile-apps&rh=p_4%3AExtrude%2BGaming&search-type=ss
+- X/Twitter: https://x.com/ExtrudeGStudio
+- YouTube: https://www.youtube.com/@extrudestudio3513
+
+Main games and topics:
+- Edge of Survival: Island Quest / Untamed Survival Land: survival, crafting, island adventure
+- Boxing Stars: Real 3D Fight: boxing, fighting, sports
+- Bistro Empire: Food Tycoon: restaurant tycoon, simulation, idle food game
+- Flying Panther Crime City: superhero, open-world action
+- Santa Rope Hero: Christmas superhero action
+- Girl Spider Rope Hero: rope-swinging superhero action
+- ASMR Pop It & Slime Fidgets: relaxing casual ASMR game
+- Monster Truck Race 2025: arcade racing
+- Dragon Robot Transform Game: robot transformation action
+
+Contact:
+- raheelswati1@gmail.com
+- extrudegamingstudio@gmail.com
