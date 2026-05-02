@@ -4,463 +4,471 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Extrude Gaming Studio | Mobile Games</title>
+    <title>Extrude Gaming Studio | Mobile Games for Android, iOS and Amazon</title>
     <meta name="description"
-        content="Extrude Gaming Studio - Creating immersive mobile gaming experiences for iOS and Android.">
-    <meta name="keywords" content="mobile games, android games, ios games, game studio, extrude gaming">
+        content="Extrude Gaming Studio is an independent mobile game studio making action, survival, racing, tycoon and casual games for Google Play, App Store and Amazon Appstore.">
+    <meta name="keywords" content="Extrude Gaming Studio, mobile games, Android games, iOS games, Amazon Appstore, Unity games">
     <link rel="canonical" href="https://extrudegaming.com/">
 
-    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://extrudegaming.com/">
     <meta property="og:title" content="Extrude Gaming Studio | Mobile Games">
     <meta property="og:description"
-        content="Creating immersive mobile gaming experiences for iOS and Android. Check out our latest hits!">
-    <meta property="og:image" content="https://extrudegaming.com/assets/images/games/santa_rope_hero.png">
+        content="Play Extrude Gaming Studio titles across Google Play, App Store and Amazon Appstore.">
+    <meta property="og:image" content="https://extrudegaming.com/promo/IslandQuest.png">
 
-    <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://extrudegaming.com/">
     <meta property="twitter:title" content="Extrude Gaming Studio | Mobile Games">
-    <meta property="twitter:description" content="Creating immersive mobile gaming experiences for iOS and Android.">
-    <meta property="twitter:image" content="https://extrudegaming.com/assets/images/games/santa_rope_hero.png">
+    <meta property="twitter:description"
+        content="Action, survival, racing, tycoon and casual mobile games from Extrude Gaming Studio.">
+    <meta property="twitter:image" content="https://extrudegaming.com/promo/IslandQuest.png">
 
     <link rel="stylesheet" href="styles.css">
-    <!-- FontAwesome for Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Swiper CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 </head>
 
 <body>
-
-    <!-- Navigation -->
-    <header>
-        <div class="container header-content">
-            <nav>
-                <a href="#" class="logo">EXTRUDE<span class="text-gradient">STUDIO</span></a>
-                <div class="nav-links">
-                    <a href="#home" class="active">Home</a>
-                    <a href="#games">Games</a>
-                    <a href="#about">About</a>
-                    <a href="#contact">Contact</a>
-                </div>
-                <!-- Mobile Menu Icon -->
-                <i class="fas fa-bars hamburger" role="button" tabindex="0" aria-label="Toggle navigation"></i>
+    <header class="site-header">
+        <div class="container nav-shell">
+            <a href="#home" class="logo" aria-label="Extrude Studio home">EXTRUDE<span>STUDIO</span></a>
+            <nav class="nav-links" aria-label="Primary navigation">
+                <a href="#games">Games</a>
+                <a href="#showreel">Showreel</a>
+                <a href="#studio">Studio</a>
+                <a href="#contact">Contact</a>
             </nav>
+            <button class="hamburger" type="button" aria-label="Toggle navigation" aria-expanded="false">
+                <i class="fas fa-bars" aria-hidden="true"></i>
+            </button>
         </div>
     </header>
 
-    <main>
-        <h1 class="visually-hidden">Extrude Gaming Studio</h1>
-
-        <!-- Hero Carousel -->
-        <section id="home" class="hero-slider swiper">
-            <div class="swiper-wrapper">
-                <!-- Slide 1: Santa Rope Hero -->
-                <div class="swiper-slide hero-slide"
-                    style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url('assets/images/games/santa_rope_hero.png');">
-                    <div class="container hero-content">
-                        <div class="hero-rating"><i class="fas fa-star" style="color: gold;"></i><i class="fas fa-star"
-                                style="color: gold;"></i><i class="fas fa-star" style="color: gold;"></i><i
-                                class="fas fa-star" style="color: gold;"></i><i class="fas fa-star-half-alt"
-                                style="color: gold;"></i> <span
-                                style="font-size: 0.9rem; opacity: 0.8; margin-left: 5px;">4.5/5</span>
-                        </div>
-                        <h2>SANTA ROPE <br><span class="text-gradient">HERO</span></h2>
-                        <p>Swing through the city and save the holidays in this action-packed open world adventure.</p>
-                        <div class="hero-platforms"
-                            style="margin-bottom: 25px; font-size: 1.2rem; color: var(--text-muted);">
-                            <i class="fab fa-apple" style="margin-right: 15px;"></i> <i class="fab fa-android"></i> <i
-                                class="fab fa-amazon" style="margin-left: 15px;"></i>
-                        </div>
-                        <a href="https://apps.apple.com/us/app/santa-rope-hero-cyborg-city/id1446427589" target="_blank"
-                            class="btn">Play Now</a>
-                    </div>
+    <main id="home">
+        <section class="hero">
+            <video class="hero-video" autoplay muted loop playsinline poster="promo/IslandQuest.png">
+                <source src="promo/IslandQuest.mp4" type="video/mp4">
+            </video>
+            <div class="hero-shade"></div>
+            <div class="container hero-inner">
+                <p class="eyebrow">Independent mobile game studio</p>
+                <h1>Extrude Gaming Studio</h1>
+                <p class="hero-copy">We build fast, colorful mobile games across survival, superhero action, racing,
+                    tycoon, casual ASMR and family-friendly adventures.</p>
+                <div class="hero-actions">
+                    <a class="btn primary" href="#games">Explore Games</a>
+                    <a class="btn ghost"
+                        href="https://play.google.com/store/apps/dev?id=4662269381945447072&amp;pli=1"
+                        target="_blank" rel="noopener">Google Play</a>
+                    <a class="btn ghost" href="https://apps.apple.com/us/developer/haroon-swati/id1123415467"
+                        target="_blank" rel="noopener">App Store</a>
                 </div>
-                <!-- Slide 2: Bistro Food Blast -->
-                <div class="swiper-slide hero-slide"
-                    style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url('assets/images/games/bistro_food_blast.png');">
-                    <div class="container hero-content">
-                        <div class="hero-rating"><i class="fas fa-star" style="color: gold;"></i><i class="fas fa-star"
-                                style="color: gold;"></i><i class="fas fa-star" style="color: gold;"></i><i
-                                class="fas fa-star" style="color: gold;"></i><i class="fas fa-star"
-                                style="color: gold;"></i> <span
-                                style="font-size: 0.9rem; opacity: 0.8; margin-left: 5px;">4.8/5</span>
-                        </div>
-                        <h2>BISTRO FOOD <br><span class="text-gradient">BLAST</span></h2>
-                        <p>Master the culinary arts and manage your own restaurant empire.</p>
-                        <div class="hero-platforms"
-                            style="margin-bottom: 25px; font-size: 1.2rem; color: var(--text-muted);">
-                            <i class="fab fa-apple" style="margin-right: 15px;"></i> <i class="fab fa-android"></i>
-                        </div>
-                        <a href="https://apps.apple.com/us/app/bistro-food-blast/id6446864198" target="_blank"
-                            class="btn">Cooking Time</a>
-                    </div>
-                </div>
-                <!-- Slide 3: Stickman Detective -->
-                <div class="swiper-slide hero-slide"
-                    style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)), url('assets/images/games/stickman_detective.png');">
-                    <div class="container hero-content">
-                        <div class="hero-rating"><i class="fas fa-star" style="color: gold;"></i><i class="fas fa-star"
-                                style="color: gold;"></i><i class="fas fa-star" style="color: gold;"></i><i
-                                class="fas fa-star" style="color: gold;"></i><i class="far fa-star"
-                                style="color: gold;"></i> <span
-                                style="font-size: 0.9rem; opacity: 0.8; margin-left: 5px;">4.0/5</span>
-                        </div>
-                        <h2>STICKMAN <br><span class="text-gradient">DETECTIVE</span></h2>
-                        <p>Solve mysteries and fight for justice in the shadows.</p>
-                        <div class="hero-platforms"
-                            style="margin-bottom: 25px; font-size: 1.2rem; color: var(--text-muted);">
-                            <i class="fab fa-apple" style="margin-right: 15px;"></i> <i class="fab fa-amazon"></i>
-                        </div>
-                        <a href="https://apps.apple.com/us/app/stickman-detective-spider-hero/id1448667597"
-                            target="_blank" class="btn">Investigate</a>
-                    </div>
-                </div>
-            </div>
-            <!-- Pagination & Navigation -->
-            <div class="swiper-pagination"></div>
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
-        </section>
-
-        <!-- Swiper JS -->
-        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
-        <!-- Stats Section -->
-        <section class="stats-section"
-            style="border-bottom: 1px solid rgba(255,255,255,0.05); background: rgba(5,5,5,0.5); padding: 40px 0;">
-            <div class="container"
-                style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center; gap: 30px;">
-                <div class="stat-item reveal">
-                    <h3 class="text-gradient" style="font-size: 2.5rem; margin-bottom: 5px;">50M+</h3>
-                    <p style="color: var(--text-muted);">Global Downloads</p>
-                </div>
-                <div class="stat-item reveal">
-                    <h3 class="text-gradient" style="font-size: 2.5rem; margin-bottom: 5px;">12+</h3>
-                    <p style="color: var(--text-muted);">Top Rated Games</p>
-                </div>
-                <div class="stat-item reveal">
-                    <h3 class="text-gradient" style="font-size: 2.5rem; margin-bottom: 5px;">4.5<i class="fas fa-star"
-                            style="font-size: 1.5rem; margin-left: 5px; color: gold;"></i></h3>
-                    <p style="color: var(--text-muted);">Average Rating</p>
+                <div class="store-strip" aria-label="Store links">
+                    <a href="https://play.google.com/store/apps/dev?id=4662269381945447072&amp;pli=1" target="_blank"
+                        rel="noopener"><i class="fab fa-google-play" aria-hidden="true"></i> Google Play</a>
+                    <a href="https://apps.apple.com/us/developer/haroon-swati/id1123415467" target="_blank"
+                        rel="noopener"><i class="fab fa-app-store-ios" aria-hidden="true"></i> App Store</a>
+                    <a href="https://www.amazon.com/s?i=mobile-apps&amp;rh=p_4%3AExtrude%2BGaming&amp;search-type=ss"
+                        target="_blank" rel="noopener"><i class="fab fa-amazon" aria-hidden="true"></i> Amazon</a>
+                    <a href="https://extrudegaming.wordpress.com/" target="_blank" rel="noopener"><i
+                            class="fab fa-wordpress" aria-hidden="true"></i> Legacy Blog</a>
                 </div>
             </div>
         </section>
 
-        <!-- Games Placeholder Section -->
-        <section id="games" class="section">
+        <section class="snapshot">
+            <div class="container snapshot-grid">
+                <div>
+                    <strong>Android, iOS, Amazon</strong>
+                    <span>Real store portfolio, not concept-only work.</span>
+                </div>
+                <div>
+                    <strong>Action to casual</strong>
+                    <span>Superhero, racing, tycoon, survival and relaxing games.</span>
+                </div>
+                <div>
+                    <strong>Built for mobile</strong>
+                    <span>Simple controls, quick sessions and smooth device performance.</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="games" class="section featured-section">
             <div class="container">
-                <h2 class="section-title">Our <span class="text-gradient">Universe</span></h2>
+                <div class="section-heading">
+                    <p class="eyebrow">Featured game</p>
+                    <h2>Edge of Survival: Island Quest</h2>
+                    <p>Survive, build, craft and explore a dangerous island. Your choices decide if you conquer the
+                        wild or become part of it.</p>
+                </div>
 
-                <div class="games-grid">
-                    <!-- 1. Bistro Food Blast -->
-                    <div class="game-card">
-                        <img src="assets/images/games/bistro_food_blast.png" alt="Bistro Food Blast" class="game-thumb"
+                <article class="featured-game reveal">
+                    <div class="featured-media">
+                        <video autoplay muted loop playsinline poster="promo/IslandQuest.png">
+                            <source src="promo/IslandQuest.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="featured-copy">
+                        <span class="tag">Survival Adventure</span>
+                        <h3>Your island. Your story.</h3>
+                        <p>Gather resources, craft tools, search the wilderness and push deeper into a hostile island
+                            made for bite-size mobile exploration.</p>
+                        <div class="platform-actions">
+                            <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.IslandSurvivors"
+                                target="_blank" rel="noopener"><i class="fab fa-google-play"
+                                    aria-hidden="true"></i> Google Play</a>
+                            <a href="https://apps.apple.com/us/app/untamed-survival-land/id6753180712" target="_blank"
+                                rel="noopener"><i class="fab fa-app-store-ios" aria-hidden="true"></i> App Store</a>
+                            <a href="https://www.amazon.com/s?i=mobile-apps&amp;rh=p_4%3AExtrude%2BGaming&amp;search-type=ss"
+                                target="_blank" rel="noopener"><i class="fab fa-amazon" aria-hidden="true"></i>
+                                Amazon Games</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section class="section library-section">
+            <div class="container">
+                <div class="section-heading compact">
+                    <p class="eyebrow">Game library</p>
+                    <h2>Play the Extrude catalog</h2>
+                    <p>Live releases and returning titles from the Extrude mobile game portfolio.</p>
+                </div>
+
+                <div class="game-grid">
+                    <article class="game-card reveal">
+                        <img src="promo/boxing_stars_cover.png" alt="Boxing Stars: Real 3D Fight artwork"
                             loading="lazy">
-                        <div class="game-info">
-                            <h3>Bistro Food Blast</h3>
-                            <p>Culinary adventure! Manage your bistro, serve customers, and become a master chef.</p>
-                            <div class="platform-icons">
-                                <a href="https://apps.apple.com/us/app/bistro-food-blast/id6446864198" target="_blank"
-                                    class="platform-link" title="App Store"><i class="fab fa-app-store-ios"></i></a>
-                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.BistroFoodBlast"
-                                    target="_blank" class="platform-link" title="Google Play"><i
-                                        class="fab fa-google-play"></i></a>
-                                <a href="https://www.amazon.com/Bistro-Food-Blast/dp/B07CWR6V31" target="_blank"
-                                    class="platform-link" title="Amazon"><i class="fab fa-amazon"></i></a>
+                        <div class="game-content">
+                            <span class="tag">Fighting</span>
+                            <h3>Boxing Stars: Real 3D Fight</h3>
+                            <p>Step into fast 3D boxing matches with punch-heavy mobile fighting action.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.extrudegaming.boxing"
+                                    target="_blank" rel="noopener" aria-label="Boxing Stars on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!-- 2. Santa Rope Hero -->
-                    <div class="game-card">
-                        <img src="assets/images/games/santa_rope_hero.png" alt="Santa Rope Hero" class="game-thumb"
-                            loading="lazy">
-                        <div class="game-info">
-                            <h3>Santa Rope Hero</h3>
-                            <p>Action-packed open world. Swing through the city and save the holidays!</p>
-                            <div class="platform-icons">
-                                <a href="https://apps.apple.com/us/app/santa-rope-hero-cyborg-city/id1446427589"
-                                    target="_blank" class="platform-link" title="App Store"><i
-                                        class="fab fa-app-store-ios"></i></a>
-                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.Crime.City.Simulator.Santa"
-                                    target="_blank" class="platform-link" title="Google Play"><i
-                                        class="fab fa-google-play"></i></a>
-                                <a href="https://www.amazon.com/Santa-Rope-Hero-Cyborg-City/dp/B07LGBC212"
-                                    target="_blank" class="platform-link" title="Amazon"><i
-                                        class="fab fa-amazon"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- 3. Rope Flying Girl -->
-                    <div class="game-card">
-                        <img src="assets/images/games/rope_flying_girl.png" alt="Rope Flying Girl"
-                            class="game-thumb" loading="lazy">
-                        <div class="game-info">
-                            <h3>Rope Flying Girl</h3>
-                            <p>Soar through the skies and defeat villains with your super powers.</p>
-                            <div class="platform-icons">
-                                <a href="https://apps.apple.com/us/app/rope-flying-girl-super-hero/id1450280251"
-                                    target="_blank" class="platform-link" title="App Store"><i
-                                        class="fab fa-app-store-ios"></i></a>
-                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.girl.rope.hero.spider.swing.games"
-                                    target="_blank" class="platform-link" title="Google Play"><i
-                                        class="fab fa-google-play"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- 4. Stickman Detective -->
-                    <div class="game-card">
-                        <img src="assets/images/games/stickman_detective.png" alt="Stickman Detective"
-                            class="game-thumb" loading="lazy">
-                        <div class="game-info">
-                            <h3>Stickman Detective</h3>
-                            <p>Investigate crimes and fight for justice in this spider-hero mystery.</p>
-                            <div class="platform-icons">
-                                <a href="https://apps.apple.com/us/app/stickman-detective-spider-hero/id1448667597"
-                                    target="_blank" class="platform-link" title="App Store"><i
-                                        class="fab fa-app-store-ios"></i></a>
-                                <a href="https://www.amazon.com/Stickman-Detective-Spider-Hero-2019/dp/B07LFNV8R3"
-                                    target="_blank" class="platform-link" title="Amazon"><i
-                                        class="fab fa-amazon"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- 5. Flying Spider Hero -->
-                    <div class="game-card">
-                        <img src="assets/images/games/flying_spider_hero.png" alt="Flying Spider Hero"
-                            class="game-thumb" loading="lazy">
-                        <div class="game-info">
-                            <h3>Flying Spider Hero</h3>
-                            <p>Experience the ultimate superhero flight simulation.</p>
-                            <div class="platform-icons">
+                    <article class="game-card reveal">
+                        <img src="promo/PantherHero.png" alt="Flying Panther Crime City artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Superhero</span>
+                            <h3>Flying Panther Crime City</h3>
+                            <p>Fly, swing and fight mafia gangs in a city built for superhero missions.</p>
+                            <div class="platform-actions">
                                 <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.panther.spider.hero"
-                                    target="_blank" class="platform-link" title="Google Play"><i
-                                        class="fab fa-google-play"></i></a>
-                                <a href="https://www.amazon.com/Flying-Spider-Hero-Super-Game/dp/B07H93YWKX"
-                                    target="_blank" class="platform-link" title="Amazon"><i
-                                        class="fab fa-amazon"></i></a>
+                                    target="_blank" rel="noopener" aria-label="Flying Panther on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                                <a href="https://www.amazon.com/s?i=mobile-apps&amp;rh=p_4%3AExtrude%2BGaming&amp;search-type=ss"
+                                    target="_blank" rel="noopener" aria-label="Flying Panther on Amazon"><i
+                                        class="fab fa-amazon" aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!-- 6. Untamed Survival -->
-                    <div class="game-card">
-                        <img src="assets/images/games/untamed_survival.png" alt="Untamed Survival" class="game-thumb"
-                            loading="lazy">
-                        <div class="game-info">
-                            <h3>Untamed Survival</h3>
-                            <p>Survive in a wild land full of challenges and adventures.</p>
-                            <div class="platform-icons">
-                                <a href="https://apps.apple.com/us/app/untamed-survival-land/id6753180712"
-                                    target="_blank" class="platform-link" title="App Store"><i
-                                        class="fab fa-app-store-ios"></i></a>
+                    <article class="game-card reveal wide">
+                        <img src="promo/BistroEmpire.png" alt="Bistro Empire 3D artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Tycoon</span>
+                            <h3>Bistro Empire: Stack & Dash 3D</h3>
+                            <p>Serve customers, upgrade the kitchen and grow a busy food business with satisfying
+                                restaurant loops.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.BistroFoodBlast"
+                                    target="_blank" rel="noopener" aria-label="Bistro Empire on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                                <a href="https://apps.apple.com/us/app/bistro-empire-food-tycoon/id6447681998"
+                                    target="_blank" rel="noopener"
+                                    aria-label="Bistro Empire on App Store"><i class="fab fa-app-store-ios"
+                                        aria-hidden="true"></i></a>
+                                <a href="https://www.amazon.com/s?i=mobile-apps&amp;rh=p_4%3AExtrude%2BGaming&amp;search-type=ss"
+                                    target="_blank" rel="noopener" aria-label="Bistro Empire on Amazon"><i
+                                        class="fab fa-amazon" aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!-- 7. Stunt Bike Racer -->
-                    <div class="game-card">
-                        <img src="assets/images/games/stunt_bike_racer.png" alt="Stunt Bike Racer" class="game-thumb"
-                            loading="lazy">
-                        <div class="game-info">
-                            <h3>Stunt Bike Racer 3D</h3>
-                            <p>Perform insane stunts and race to the finish line.</p>
-                            <div class="platform-icons">
-                                <a href="https://apps.apple.com/us/app/stunt-bike-racer-3d/id1205254562" target="_blank"
-                                    class="platform-link" title="App Store"><i class="fab fa-app-store-ios"></i></a>
+                    <article class="game-card reveal">
+                        <img src="promo/SantaRopeHero.jpg" alt="Santa Rope Hero Christmas artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Open World</span>
+                            <h3>Santa Rope Hero Christmas</h3>
+                            <p>A holiday hero swings through the city, fights crime and brings chaos under control.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.Crime.City.Simulator.Santa"
+                                    target="_blank" rel="noopener" aria-label="Santa Rope Hero on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                                <a href="https://apps.apple.com/us/app/santa-rope-hero-cyborg-city/id1446427589"
+                                    target="_blank" rel="noopener"
+                                    aria-label="Santa Rope Hero on App Store"><i class="fab fa-app-store-ios"
+                                        aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!-- 8. Monster Truck Madness -->
-                    <div class="game-card">
-                        <img src="assets/images/games/monster_truck_madness.png" alt="Monster Truck Madness"
-                            class="game-thumb" loading="lazy">
-                        <div class="game-info">
-                            <h3>Monster Truck Madness</h3>
-                            <p>Crush obstacles and dominate the arena in this heavy-duty racer.</p>
-                            <div class="platform-icons">
-                                <a href="coming-soon.html" class="platform-link" title="Coming Soon"><i
-                                        class="fab fa-google-play"></i></a>
-                                <a href="coming-soon.html" class="platform-link" title="Coming Soon"><i
-                                        class="fab fa-amazon"></i></a>
+                    <article class="game-card reveal">
+                        <img src="promo/FlyingSpider2.jpg" alt="Girl Spider Rope Hero artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Action</span>
+                            <h3>Girl Spider Rope Hero</h3>
+                            <p>Rope-swinging superhero missions with city traversal, action and crime-fighting combat.
+                            </p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.girl.rope.hero.spider.swing.games"
+                                    target="_blank" rel="noopener" aria-label="Girl Spider Rope Hero on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                                <a href="https://apps.apple.com/us/app/rope-flying-girl-super-hero/id1497753857"
+                                    target="_blank" rel="noopener"
+                                    aria-label="Girl Spider Rope Hero on App Store"><i class="fab fa-app-store-ios"
+                                        aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!-- 9. Supermarket Empire -->
-                    <div class="game-card">
-                        <img src="assets/images/games/supermarket_empire.png" alt="Supermarket Empire"
-                            class="game-thumb" loading="lazy">
-                        <div class="game-info">
-                            <h3>Supermarket Empire</h3>
-                            <p>Build and manage your very own grocery tycoon empire.</p>
-                            <div class="platform-icons">
-                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.SupermarketEmpire"
-                                    target="_blank" class="platform-link" title="Google Play"><i
-                                        class="fab fa-google-play"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- 10. ASMR Pop It -->
-                    <div class="game-card">
-                        <img src="assets/images/games/asmr_pop_it.png" alt="ASMR Pop It" class="game-thumb"
-                            loading="lazy">
-                        <div class="game-info">
-                            <h3>ASMR Pop It</h3>
-                            <p>Relaxing and satisfying fidget popping game.</p>
-                            <div class="platform-icons">
+                    <article class="game-card reveal tall">
+                        <img src="promo/PopItASMR.jpg" alt="ASMR Pop It and Slime Fidgets artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Relaxing</span>
+                            <h3>ASMR Pop It & Slime Fidgets</h3>
+                            <p>Pop, press and play with colorful fidget toys in a relaxing mobile ASMR experience.</p>
+                            <div class="platform-actions">
                                 <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D"
-                                    target="_blank" class="platform-link" title="Google Play"><i
-                                        class="fab fa-google-play"></i></a>
+                                    target="_blank" rel="noopener" aria-label="ASMR Pop It on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!-- 11. Robot Transform -->
-                    <div class="game-card">
-                        <img src="assets/images/games/robot_transform.png" alt="Robot Transform" class="game-thumb"
+                    <article class="game-card reveal">
+                        <img src="promo/MonsterTruck2025.jpg" alt="Monster Truck Race 2025 artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Racing</span>
+                            <h3>Monster Truck Race 2025</h3>
+                            <p>Heavy trucks, big jumps and arena-style tracks for fast arcade racing sessions.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.MonsterTruck"
+                                    target="_blank" rel="noopener" aria-label="Monster Truck on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                                <a href="https://apps.apple.com/us/app/3d-monster-truck-race-2025/id1207646506"
+                                    target="_blank" rel="noopener" aria-label="Monster Truck on App Store"><i
+                                        class="fab fa-app-store-ios" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="game-card reveal">
+                        <img src="promo/DragonRobot.png" alt="Dragon Robot Transform Game artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Robot Battle</span>
+                            <h3>Dragon Robot Transform Game</h3>
+                            <p>Transform into a robot dragon and battle through wild dino and mech missions.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.jurassic.dino.robot.flying.dragon.transform.games"
+                                    target="_blank" rel="noopener" aria-label="Dragon Robot on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="game-card reveal wide">
+                        <img src="promo/SupermarketTycoon.png" alt="Supermarket Empire Tycoon 3D artwork"
                             loading="lazy">
-                        <div class="game-info">
-                            <h3>Robot Transform</h3>
-                            <p>Transform into powerful beasts and jets to save the world.</p>
-                            <div class="platform-icons">
-                                <a href="coming-soon.html" class="platform-link" title="Coming Soon"><i
-                                        class="fab fa-google-play"></i></a>
+                        <div class="game-content">
+                            <span class="tag">Simulator</span>
+                            <h3>Supermarket Empire Tycoon 3D</h3>
+                            <p>Build, stock and expand your own 3D grocery business from a small shop into a busy
+                                supermarket.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.SupermarketEmpire"
+                                    target="_blank" rel="noopener" aria-label="Supermarket Empire on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
 
-                    <!-- 12. Luxury Land Cruiser -->
-                    <div class="game-card">
-                        <img src="assets/images/games/luxury_land_cruiser.png" alt="Luxury Land Cruiser"
-                            class="game-thumb" loading="lazy">
-                        <div class="game-info">
-                            <h3>Luxury Land Cruiser</h3>
-                            <p>Experience realistic off-road driving in luxury SUVs.</p>
-                            <div class="platform-icons">
-                                <a href="coming-soon.html" class="platform-link" title="Coming Soon"><i
-                                        class="fab fa-google-play"></i></a>
+                    <article class="game-card reveal">
+                        <img src="promo/SantaRun.jpg" alt="Santa Run Christmas Rush 3D artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Runner</span>
+                            <h3>Santa Run: Christmas Rush 3D</h3>
+                            <p>Jump, slide and rush through festive levels in a quick holiday running game.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.extrudegaming.santa.christmas.run.rush"
+                                    target="_blank" rel="noopener" aria-label="Santa Run on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                                <a href="https://apps.apple.com/us/app/christmas-run-3d-santa-game/id1186880649"
+                                    target="_blank" rel="noopener" aria-label="Santa Run on App Store"><i
+                                        class="fab fa-app-store-ios" aria-hidden="true"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </article>
+
+                    <article class="game-card reveal">
+                        <img src="promo/AirRobotJet.png" alt="Air Robot Jet Transform War artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Transform</span>
+                            <h3>Air Robot Jet Transform War</h3>
+                            <p>Switch between robot and jet action for high-speed futuristic combat missions.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.air.robot.plane.transformation"
+                                    target="_blank" rel="noopener" aria-label="Air Robot on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="game-card reveal">
+                        <img src="assets/images/games/stickman_detective.png" alt="Stickman Detective Spider Hero artwork"
+                            loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Detective</span>
+                            <h3>Stickman Detective Spider Hero</h3>
+                            <p>Investigate city trouble and fight through stickman superhero action missions.</p>
+                            <div class="platform-actions">
+                                <a href="https://apps.apple.com/us/app/stickman-detective-spider-hero/id1447410798"
+                                    target="_blank" rel="noopener"
+                                    aria-label="Stickman Detective on App Store"><i class="fab fa-app-store-ios"
+                                        aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="game-card reveal">
+                        <img src="promo/StuntBikeRacer.png" alt="Stunt Bike Racer 3D Simulation artwork"
+                            loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Bike Stunts</span>
+                            <h3>Stunt Bike Racer 3D</h3>
+                            <p>Balance speed and control through stunt tracks built for short mobile sessions.</p>
+                            <div class="platform-actions">
+                                <a href="https://apps.apple.com/us/app/stunt-bike-racer-3d/id1205254562"
+                                    target="_blank" rel="noopener"
+                                    aria-label="Stunt Bike Racer on App Store"><i class="fab fa-app-store-ios"
+                                        aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <article class="game-card reveal wide">
+                        <img src="promo/ConceptSportsCar.png" alt="3D Concept Formula Racing artwork" loading="lazy">
+                        <div class="game-content">
+                            <span class="tag">Grand Prix</span>
+                            <h3>3D Concept Formula Racing</h3>
+                            <p>High-speed concept car racing with grand prix energy and bright mobile tracks.</p>
+                            <div class="platform-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.ExtrudeGaming.GrandPrixConceptFormula"
+                                    target="_blank" rel="noopener" aria-label="3D Concept Formula on Google Play"><i
+                                        class="fab fa-google-play" aria-hidden="true"></i></a>
+                                <a href="https://apps.apple.com/us/app/concept-sports-car-race-2023/id1178462658"
+                                    target="_blank" rel="noopener" aria-label="Concept Sports Car on App Store"><i
+                                        class="fab fa-app-store-ios" aria-hidden="true"></i></a>
+                            </div>
+                        </div>
+                    </article>
                 </div>
             </div>
         </section>
 
-        <!-- About Section -->
-        <section id="about" class="section" style="background: var(--bg-card);">
+        <section id="showreel" class="section reel-section">
             <div class="container">
-                <h2 class="section-title">About <span class="text-gradient">Extrude</span></h2>
-                <div style="max-width: 700px; margin: 0 auto; text-align: center; color: var(--text-muted);">
-                    <p>Extrude Gaming Studio is dedicated to creating unforgettable mobile experiences. We combine
-                        cutting-edge technology with creative storytelling to bring you games that stand out.</p>
+                <div class="section-heading compact">
+                    <p class="eyebrow">Motion preview</p>
+                    <h2>Real gameplay energy</h2>
+                    <p>Short loops from the current promo library give the page the slight zoom and visual movement you
+                        liked in the reference sites.</p>
+                </div>
+
+                <div class="reel-grid">
+                    <article class="reel-card reveal">
+                        <video autoplay muted loop playsinline poster="promo/FlyingSpider2.jpg">
+                            <source src="promo/SpiderHero.mp4" type="video/mp4">
+                        </video>
+                        <h3>Superhero city action</h3>
+                    </article>
+                    <article class="reel-card reveal">
+                        <video autoplay muted loop playsinline poster="promo/RallyRacing.jpg">
+                            <source src="promo/RallyRacing.mp4" type="video/mp4">
+                        </video>
+                        <h3>Arcade racing</h3>
+                    </article>
+                    <article class="reel-card reveal">
+                        <video autoplay muted loop playsinline poster="promo/ConceptSportsCar.png">
+                            <source src="promo/FormulaRacing.mp4" type="video/mp4">
+                        </video>
+                        <h3>Formula speed</h3>
+                    </article>
                 </div>
             </div>
         </section>
 
-        <!-- Connect & Tribe Section -->
-        <section id="contact" class="section" style="background: linear-gradient(to bottom, #050505, #0a0a0a);">
-            <div class="container">
-                <h2 class="section-title">Join the <span class="text-gradient">Tribe</span></h2>
-
-                <!-- Social Tribe Bar -->
-                <div class="reveal"
-                    style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 60px;">
-                    <a href="#" class="btn" style="background: #5865F2; display: flex; align-items: center; gap: 10px;">
-                        <i class="fab fa-discord" style="font-size: 1.5rem;"></i> Join Discord
-                    </a>
-                    <a href="#" class="btn" style="background: #1877F2; display: flex; align-items: center; gap: 10px;">
-                        <i class="fab fa-facebook" style="font-size: 1.5rem;"></i> Like Us
-                    </a>
-                    <a href="https://x.com/ExtrudeGStudio" target="_blank" class="btn"
-                        style="background: #000000; display: flex; align-items: center; gap: 10px;">
-                        <i class="fab fa-x-twitter" style="font-size: 1.5rem;"></i> Follow
-                    </a>
-                    <a href="https://pk.linkedin.com/in/raheel-swati-72b4429" target="_blank" class="btn"
-                        style="background: #0077b5; display: flex; align-items: center; gap: 10px;">
-                        <i class="fab fa-linkedin" style="font-size: 1.5rem;"></i> Follow LinkedIn
-                    </a>
-                    <a href="https://www.youtube.com/channel/UCtvqWhzZm0rjoHkDQ1ayK_Q" target="_blank" class="btn"
-                        style="background: #FF0000; display: flex; align-items: center; gap: 10px;">
-                        <i class="fab fa-youtube" style="font-size: 1.5rem;"></i> Subscribe
-                    </a>
+        <section id="studio" class="section studio-section">
+            <div class="container studio-grid">
+                <div class="studio-copy reveal">
+                    <p class="eyebrow">About the studio</p>
+                    <h2>Small studio, broad mobile portfolio.</h2>
+                    <p>Extrude Gaming Studio is an independent developer creating mobile titles for Android, iOS and
+                        Amazon devices. The portfolio spans superheroes, open-world city missions, racing, survival,
+                        kids learning, tycoon systems and casual ASMR play.</p>
+                    <p>The studio focus is direct: approachable controls, strong visual hooks and games that run well on
+                        a wide range of phones and tablets.</p>
                 </div>
-
-                <!-- Departmental Contact Grid -->
-                <div class="games-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px;">
-
-                    <!-- General Inquiries -->
-                    <div class="game-card item-reveal" style="text-align: center;">
-                        <i class="fas fa-paper-plane"
-                            style="font-size: 3rem; color: var(--accent-color); margin-bottom: 20px;"></i>
-                        <h3>General Inquiries</h3>
-                        <p style="margin-bottom: 20px; color: var(--text-muted);">Say hello or ask general questions.
-                        </p>
-                        <a href="mailto:hello@extrudestudio.com"
-                            style="color: white; font-weight: bold; text-decoration: none; border-bottom: 1px solid var(--accent-color);">hello@extrudegaming.com</a>
-                    </div>
-
-                    <!-- Press & Media -->
-                    <div class="game-card item-reveal" style="text-align: center;">
-                        <i class="fas fa-camera"
-                            style="font-size: 3rem; color: var(--accent-color); margin-bottom: 20px;"></i>
-                        <h3>Press & Media</h3>
-                        <p style="margin-bottom: 20px; color: var(--text-muted);">For press kits, interviews, and news.
-                        </p>
-                        <a href="mailto:press@extrudestudio.com"
-                            style="color: white; font-weight: bold; text-decoration: none; border-bottom: 1px solid var(--accent-color);">press@extrudegaming.com</a>
-                    </div>
-
-                    <!-- Publishing -->
-                    <div class="game-card item-reveal" style="text-align: center;">
-                        <i class="fas fa-handshake"
-                            style="font-size: 3rem; color: var(--accent-color); margin-bottom: 20px;"></i>
-                        <h3>Publishing</h3>
-                        <p style="margin-bottom: 20px; color: var(--text-muted);">Submit your game or talk business.</p>
-                        <a href="mailto:publishing@extrudestudio.com"
-                            style="color: white; font-weight: bold; text-decoration: none; border-bottom: 1px solid var(--accent-color);">publishing@extrudegaming.com</a>
-                    </div>
-
+                <div class="studio-panel reveal">
+                    <h3>Portfolio channels</h3>
+                    <a href="https://play.google.com/store/apps/dev?id=4662269381945447072&amp;pli=1" target="_blank"
+                        rel="noopener"><i class="fab fa-google-play" aria-hidden="true"></i> Extrude Gaming Studio on
+                        Google Play</a>
+                    <a href="https://apps.apple.com/us/developer/haroon-swati/id1123415467" target="_blank"
+                        rel="noopener"><i class="fab fa-app-store-ios" aria-hidden="true"></i> Haroon Swati on App
+                        Store</a>
+                    <a href="https://www.amazon.com/s?i=mobile-apps&amp;rh=p_4%3AExtrude%2BGaming&amp;search-type=ss"
+                        target="_blank" rel="noopener"><i class="fab fa-amazon" aria-hidden="true"></i> Extrude Gaming
+                        on Amazon</a>
+                    <a href="https://extrudegaming.wordpress.com/" target="_blank" rel="noopener"><i
+                            class="fab fa-wordpress" aria-hidden="true"></i> Legacy WordPress game archive</a>
                 </div>
-
-                <!-- Support Portal -->
-                <div class="reveal"
-                    style="text-align: center; margin-top: 60px; padding: 40px; background: rgba(255,255,255,0.03); border-radius: 20px; border: 1px solid rgba(255,255,255,0.05);">
-                    <h3 style="margin-bottom: 15px;">Need Game Support?</h3>
-                    <p style="color: var(--text-muted); margin-bottom: 25px;">Visit our dedicated support center for
-                        FAQs
-                        and ticketing.</p>
-                    <a href="#" class="btn-outline">Visit Support Center</a>
-                </div>
-
             </div>
         </section>
 
+        <section id="contact" class="section contact-section">
+            <div class="container contact-grid">
+                <div>
+                    <p class="eyebrow">Contact</p>
+                    <h2>Talk games, support or publishing.</h2>
+                    <p>For game support, business questions or portfolio requests, reach the Extrude team directly.</p>
+                </div>
+                <div class="contact-actions">
+                    <a href="mailto:raheelswati1@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i>
+                        raheelswati1@gmail.com</a>
+                    <a href="mailto:extrudegamingstudio@gmail.com"><i class="fas fa-envelope-open"
+                            aria-hidden="true"></i> extrudegamingstudio@gmail.com</a>
+                    <a href="https://x.com/ExtrudeGStudio" target="_blank" rel="noopener"><i class="fab fa-x-twitter"
+                            aria-hidden="true"></i> Follow on X</a>
+                    <a href="https://www.youtube.com/@extrudestudio3513" target="_blank" rel="noopener"><i
+                            class="fab fa-youtube" aria-hidden="true"></i> YouTube</a>
+                </div>
+            </div>
+        </section>
     </main>
 
-    <!-- Footer -->
-    <footer>
-        <div class="container footer-content">
-            <div class="footer-logo">EXTRUDE<span class="text-gradient">STUDIO</span></div>
-            <div class="footer-links">
-                <a href="#home">Home</a>
-                <a href="#games">Games</a>
-                <a href="#about">About</a>
-                <a href="#">Support</a>
-                <a href="#">Parents' Guide</a>
-                <a href="privacy-policy.html">Privacy Policy</a>
-                <a href="#">Community Code</a>
+    <footer class="site-footer">
+        <div class="container footer-grid">
+            <div>
+                <a href="#home" class="logo">EXTRUDE<span>STUDIO</span></a>
+                <p>Independent mobile games for Android, iOS and Amazon Appstore.</p>
             </div>
-            <p class="copyright">&copy; 2024 Extrude Gaming Studio. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="#games">Games</a>
+                <a href="#showreel">Showreel</a>
+                <a href="#studio">Studio</a>
+                <a href="privacy-policy.html">Privacy Policy</a>
+                <a href="app-ads.txt">app-ads.txt</a>
+            </div>
         </div>
+        <p class="copyright">&copy; 2026 Extrude Gaming Studio. Google Play, App Store and Amazon Appstore are
+            trademarks of their respective owners.</p>
     </footer>
 
     <script src="script.js"></script>
