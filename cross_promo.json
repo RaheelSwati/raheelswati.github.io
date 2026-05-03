@@ -8,7 +8,8 @@
       "imageURL": "https://raheelswati.github.io/promo/boxing_stars_cover.png",
       "videoURL": "",
       "priority": 100,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 12
     },
     {
       "gameTitle": "Flying Panther Crime City",
@@ -18,7 +19,8 @@
       "imageURL": "https://raheelswati.github.io/promo/PantherHero.png",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "priority": 95,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 12
     },
     {
       "gameTitle": "3D Concept Formula Racing",
@@ -28,7 +30,8 @@
       "imageURL": "https://raheelswati.github.io/promo/ConceptSportsCar.png",
       "videoURL": "https://raheelswati.github.io/promo/FormulaRacing.mp4",
       "priority": 90,
-      "isAmazonPaid": true
+      "isAmazonPaid": true,
+      "ageRating": 12
     },
     {
       "gameTitle": "Girl Spider Rope Hero",
@@ -38,7 +41,8 @@
       "imageURL": "https://raheelswati.github.io/promo/FlyingSpider2.jpg",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "priority": 80,
-      "isAmazonPaid": true
+      "isAmazonPaid": true,
+      "ageRating": 18
     },
     {
       "gameTitle": "Air Robot Jet Transform",
@@ -48,7 +52,8 @@
       "imageURL": "https://raheelswati.github.io/promo/AirRobotJet.png",
       "videoURL": "",
       "priority": 70,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 12
     },
     {
       "gameTitle": "Dragon Robot Transform",
@@ -58,7 +63,8 @@
       "imageURL": "https://raheelswati.github.io/promo/DragonRobot.png",
       "videoURL": "",
       "priority": 70,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 12
     },
     {
       "gameTitle": "Santa Run: Christmas Rush 3D",
@@ -68,7 +74,8 @@
       "imageURL": "https://raheelswati.github.io/promo/SantaRun.jpg",
       "videoURL": "",
       "priority": 60,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "ASMR Pop It & Slime Fidgets",
@@ -78,7 +85,8 @@
       "imageURL": "https://raheelswati.github.io/promo/PopItASMR.jpg",
       "videoURL": "",
       "priority": 50,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Kart vs Formula Racing",
@@ -88,7 +96,8 @@
       "imageURL": "https://raheelswati.github.io/promo/TruckVsFormula.png",
       "videoURL": "https://raheelswati.github.io/promo/RallyRacing.mp4",
       "priority": 45,
-      "isAmazonPaid": true
+      "isAmazonPaid": true,
+      "ageRating": 3
     },
     {
       "gameTitle": "Supermarket Empire Tycoon 3D",
@@ -98,7 +107,8 @@
       "imageURL": "https://raheelswati.github.io/promo/SupermarketTycoon.png",
       "videoURL": "",
       "priority": 40,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Monster Truck Race 2025",
@@ -108,7 +118,8 @@
       "imageURL": "https://raheelswati.github.io/promo/MonsterTruck2025.jpg",
       "videoURL": "",
       "priority": 35,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Ultimate Buggy Kart Race",
@@ -118,7 +129,8 @@
       "imageURL": "https://raheelswati.github.io/promo/UltimateBuggyKart.png",
       "videoURL": "",
       "priority": 30,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Edge of Survival: Island Quest",
@@ -128,7 +140,8 @@
       "imageURL": "https://raheelswati.github.io/promo/IslandQuest.png",
       "videoURL": "https://raheelswati.github.io/promo/IslandQuest.mp4",
       "priority": 99,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Freezo Snow Storm Superhero",
@@ -138,7 +151,8 @@
       "imageURL": "https://raheelswati.github.io/promo/FreezoHero.png",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "priority": 20,
-      "isAmazonPaid": true
+      "isAmazonPaid": true,
+      "ageRating": 12
     },
     {
       "gameTitle": "Bistro Empire 3D",
@@ -148,7 +162,8 @@
       "imageURL": "https://raheelswati.github.io/promo/BistroEmpire.png",
       "videoURL": "",
       "priority": 98,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Sports Cars Water Sliding",
@@ -158,7 +173,8 @@
       "imageURL": "https://raheelswati.github.io/promo/WaterSlidingCars.png",
       "videoURL": "",
       "priority": 10,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "RC Toys Racing Demolition",
@@ -168,7 +184,8 @@
       "imageURL": "https://raheelswati.github.io/promo/RCToyRacing.png",
       "videoURL": "",
       "priority": 5,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Luxury Land Cruiser Racing",
@@ -178,7 +195,8 @@
       "imageURL": "https://raheelswati.github.io/promo/LuxuryLandCruiser.png",
       "videoURL": "",
       "priority": 5,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Santa Rope Hero Christmas",
@@ -188,7 +206,63 @@
       "imageURL": "https://raheelswati.github.io/promo/SantaRopeHero.jpg",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "priority": 5,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 12
+    },
+    {
+      "gameTitle": "Rescue Sim: Ambulance & Heli",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.City.Rescue.Simulator",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "",
+      "priority": 65,
+      "isAmazonPaid": false,
+      "ageRating": 3
+    },
+    {
+      "gameTitle": "Cursed Nanny: Nightmare House",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.riseofrobots.grannyvsbaby",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "",
+      "priority": 55,
+      "isAmazonPaid": false,
+      "ageRating": 12
+    },
+    {
+      "gameTitle": "Rise of Robots: Jet Transform",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.Rise.of.Robots.Game",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "",
+      "priority": 50,
+      "isAmazonPaid": false,
+      "ageRating": 12
+    },
+    {
+      "gameTitle": "Smart Gangster Crime City",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.crime.city.gagster",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "",
+      "priority": 45,
+      "isAmazonPaid": false,
+      "ageRating": 12
+    },
+    {
+      "gameTitle": "City Bus Simulator 2019",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.City.Bus.Simulator",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "",
+      "priority": 25,
+      "isAmazonPaid": false,
+      "ageRating": 3
     },
     {
       "gameTitle": "Unscrew Jam 3D Pro",
@@ -197,7 +271,8 @@
       "imageURL": "https://raheelswati.github.io/promo/UnscrewJam.jpg",
       "videoURL": "",
       "priority": 30,
-      "isAmazonPaid": true
+      "isAmazonPaid": true,
+      "ageRating": 3
     },
     {
       "gameTitle": "Unscrew Jam 3D",
@@ -206,7 +281,8 @@
       "imageURL": "https://raheelswati.github.io/promo/UnscrewJam.jpg",
       "videoURL": "",
       "priority": 15,
-      "isAmazonPaid": false
+      "isAmazonPaid": false,
+      "ageRating": 3
     }
   ]
 }
