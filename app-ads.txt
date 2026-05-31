@@ -2,7 +2,7 @@ google.com, pub-4994757641737321, DIRECT, f08c47fec0942fa0
 unity.com, 1016536, DIRECT, 96cabb5fbdde37a7
 vungle.com, 5e00a3bf6057ae0017e7d10b, DIRECT, c107d686becd2d77
 mintegral.com, 56527, DIRECT, 0aeed750c80d6423
-
+facebook.com, 194647358324243, DIRECT, c3e20eee3f780d68
 inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
 smartclip.net, 15458, RESELLER
 smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
