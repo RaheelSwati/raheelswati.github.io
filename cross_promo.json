@@ -12,6 +12,30 @@
       "ageRating": 12,
       "isActive": true
     },
+     {
+      "gameTitle": "Incredible Football Strike Pro",
+      "googlePlayURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrikePro",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "",
+      "priority": 120,
+      "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    },
+    {
+      "gameTitle": "Flying Spider Rope Hero Pro",
+      "googlePlayURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.spider.flying.rope.hero.pro",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/FlyingSpider2.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
+      "priority": 115,
+      "isAmazonPaid": true,
+      "ageRating": 18,
+      "isActive": true
+    },
     {
       "gameTitle": "Flying Panther Crime City",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.flying.panther.spider.hero",
