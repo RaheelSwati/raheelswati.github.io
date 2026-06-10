@@ -7,7 +7,7 @@
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/boxing_stars_cover.png",
       "videoURL": "",
-      "priority": 100,
+      "priority": 110,
       "isAmazonPaid": false,
       "ageRating": 12,
       "isActive": true
@@ -25,7 +25,7 @@
       "isActive": true
     },
     {
-      "gameTitle": "Flying Spider Rope Hero Pro",
+      "gameTitle": "Super Spider Rope Hero Pro",
       "googlePlayURL": "",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.spider.flying.rope.hero.pro",
       "iosAppStoreURL": "",
@@ -33,7 +33,31 @@
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "priority": 115,
       "isAmazonPaid": true,
-      "ageRating": 18,
+      "ageRating": 3,
+      "isActive": true
+    },
+      {
+      "gameTitle": "Flying Spider Rope Hero Two Pro",
+      "googlePlayURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.spider.two.pro",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/FlyingSpider2.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
+      "priority": 112,
+      "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    },
+     {
+      "gameTitle": "Flying Spider Rope Hero Pro",
+      "googlePlayURL": "",
+      "amazonStoreURL": "com.Amazon.ExtrudeGaming.flying.man.spider.hero.games.pro",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/FlyingSpider2.jpg",
+      "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
+      "priority": 110,
+      "isAmazonPaid": true,
+      "ageRating": 3,
       "isActive": true
     },
     {
@@ -96,6 +120,18 @@
       "ageRating": 12,
       "isActive": true
     },
+        {
+      "gameTitle": "Dragon Robot Transform Pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.jurassic.dino.robot.flying.dragon.transform.games",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStorm.jurassic.dino.robot.flying.dragon.transform.games.pro",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/DragonRobot.png",
+      "videoURL": "",
+      "priority": 70,
+      "isAmazonPaid": false,
+      "ageRating": 12,
+      "isActive": true
+    },
     {
       "gameTitle": "Santa Run: Christmas Rush 3D",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.santa.christmas.run.rush",
@@ -125,7 +161,7 @@
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.KartVSFormulaGrandPrix",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.RallyRacingCarDrift.pro",
       "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/promo/TruckVsFormula.png",
+      "imageURL": "https://raheelswati.github.io/promo/MonsterTruckVsFormulaInterstitial.png",
       "videoURL": "https://raheelswati.github.io/promo/RallyRacing.mp4",
       "priority": 45,
       "isAmazonPaid": true,
@@ -187,7 +223,7 @@
       "iosAppStoreURL": "",
       "imageURL": "https://raheelswati.github.io/promo/FreezoHero.png",
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
-      "priority": 20,
+      "priority": 92,
       "isAmazonPaid": true,
       "ageRating": 12,
       "isActive": true
@@ -255,9 +291,9 @@
     {
       "gameTitle": "Rescue Sim: Ambulance & Heli",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.City.Rescue.Simulator",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.RiseOfRobots.City.Rescue.Simulator",
       "iosAppStoreURL": "",
-      "imageURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/CityRescueInterstitial.png",
       "videoURL": "",
       "priority": 65,
       "isAmazonPaid": false,
@@ -267,9 +303,9 @@
     {
       "gameTitle": "Cursed Nanny: Nightmare House",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.riseofrobots.grannyvsbaby",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.riseofrobots.grannyvsbaby",
       "iosAppStoreURL": "",
-      "imageURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/GrannyVSBabyInterstitial.png",
       "videoURL": "",
       "priority": 55,
       "isAmazonPaid": false,
@@ -279,9 +315,9 @@
     {
       "gameTitle": "Rise of Robots: Jet Transform",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.Rise.of.Robots.Game",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.RiseOfRobots.Rise.of.Robots.Game",
       "iosAppStoreURL": "",
-      "imageURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/RiseOfRobotSInterstitial.png",
       "videoURL": "",
       "priority": 50,
       "isAmazonPaid": false,
@@ -291,9 +327,9 @@
     {
       "gameTitle": "Smart Gangster Crime City",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.crime.city.gagster",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.RiseOfRobots.crime.city.gagster",
       "iosAppStoreURL": "",
-      "imageURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/SmartGangsterInterstitial.png",
       "videoURL": "",
       "priority": 45,
       "isAmazonPaid": false,
@@ -303,9 +339,9 @@
     {
       "gameTitle": "City Bus Simulator 2019",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RiseOfRobots.City.Bus.Simulator",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.RiseOfRobots.City.Rescue.Simulator",
       "iosAppStoreURL": "",
-      "imageURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/CityRescueInterstitial.png",
       "videoURL": "",
       "priority": 25,
       "isAmazonPaid": false,
