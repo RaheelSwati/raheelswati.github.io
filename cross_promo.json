@@ -24,6 +24,18 @@
       "ageRating": 3,
       "isActive": true
     },
+      {
+      "gameTitle": "Football League 26 Offline",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrike",
+      "iosAppStoreURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/Football_League.png",
+      "videoURL": "",
+      "priority": 118,
+      "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    },
     {
       "gameTitle": "Super Spider Rope Hero Pro",
       "googlePlayURL": "",
