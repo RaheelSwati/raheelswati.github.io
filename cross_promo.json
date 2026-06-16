@@ -35,7 +35,35 @@
       "portraitVideoURL": "",
       "imageURL": "https://raheelswati.github.io/promo/Football_League.png",
       "videoURL": "https://raheelswati.github.io/promo/TrailerFootball.mp4",
-      "priority": 99,
+      "priority": 119,
+      "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    }
+     {
+      "gameTitle": "Incredible Football Strike Pro2",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike.pro",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrikePro",
+      "iosAppStoreURL": "",
+      "portraitImageURL": "https://raheelswati.github.io/promo/FGLPortraitInterstitial.png",
+      "portraitVideoURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/Football_League.png",
+      "videoURL": "https://raheelswati.github.io/promo/FootballGameplayTrailer.mp4",
+      "priority": 118,
+      "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    },
+      {
+      "gameTitle": "Football League 26 Offline2",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrike",
+      "iosAppStoreURL": "",
+      "portraitImageURL": "https://raheelswati.github.io/promo/FGLPortraitInterstitial.png",
+      "portraitVideoURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/Football_League.png",
+      "videoURL": "https://raheelswati.github.io/promo/FootballGameplayTrailer.mp4",
+      "priority": 117,
       "isAmazonPaid": true,
       "ageRating": 3,
       "isActive": true
