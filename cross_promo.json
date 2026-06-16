@@ -51,7 +51,7 @@
       "videoURL": "https://raheelswati.github.io/promo/FootballGameplayTrailer.mp4",
       "priority": 118,
       "isAmazonPaid": true,
-      "ageRating": 3,
+      "ageRating": 12,
       "isActive": true
     },
       {
@@ -65,7 +65,7 @@
       "videoURL": "https://raheelswati.github.io/promo/FootballGameplayTrailer.mp4",
       "priority": 117,
       "isAmazonPaid": true,
-      "ageRating": 3,
+      "ageRating": 12,
       "isActive": true
     }
   ]
