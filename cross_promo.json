@@ -11,6 +11,18 @@
       "isAmazonPaid": false,
       "ageRating": 12,
       "isActive": true
+    },  
+    {
+      "gameTitle": "Arrow Escape Puzzle",
+      "googlePlayURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.racestormstudio.pathescapepuzzle",
+      "iosAppStoreURL": "",
+      "imageURL": "",
+      "videoURL": "https://raheelswati.github.io/promo/TapArrowEscape.mp4",
+      "priority": 105,
+      "isAmazonPaid": false,
+      "ageRating": 12,
+      "isActive": true
     },
      {
       "gameTitle": "Incredible Football Strike Pro",
