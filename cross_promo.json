@@ -13,7 +13,21 @@
       "isAmazonPaid": false,
       "ageRating": 12,
       "isActive": true
-    },  
+    }, 
+     {
+      "gameTitle": "Pro Cricket 3D: Real Match",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.cricketarena3d",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "portraitImageURL": "https://raheelswati.github.io/promo/BoxingGameVerticle.png",
+      "portraitVideoURL": "",
+      "imageURL": "https://raheelswati.github.io/promo/BoxingGameHorizontal.png",
+      "videoURL": "",
+      "priority": 110,
+      "isAmazonPaid": false,
+      "ageRating": 12,
+      "isActive": true
+    },
     {
       "gameTitle": "Arrow Escape Puzzle",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.racestormstudio.pathescapepuzzle",
