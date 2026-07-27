@@ -23,39 +23,13 @@
       "portraitVideoURL": "",
       "imageURL": "https://raheelswati.github.io/promo/CricketADHorizontal.png",
       "videoURL": "",
-      "priority": 118,
+      "priority": 120,
       "isAmazonPaid": false,
-      "ageRating": 12,
+      "ageRating": 3,
       "isActive": true
     },
-    {
-      "gameTitle": "Arrow Escape Puzzle",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.racestormstudio.pathescapepuzzle",
-      "amazonStoreURL": "amzn://apps/android?p=com.racestormstudio.pathescapepuzzle",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/promo/ArrowHorizontal.png",
-      "videoURL": "https://raheelswati.github.io/promo/TapArrowEscape.mp4",
-      "portraitImageURL": "https://raheelswati.github.io/promo/ArrowVerticle.png",
-      "portraitVideoURL": "",
-      "priority": 105,
-      "isAmazonPaid": false,
-      "ageRating": 12,
-      "isActive": true
-    },
-     {
-      "gameTitle": "Arrow Jam: Logic Puzzle",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.arrow.jam",
-      "amazonStoreURL": "amzn://apps/android?pid=com.extrude.studio.arrow.jam",
-      "iosAppStoreURL": "",
-      "imageURL": "https://raheelswati.github.io/promo/ArrowHorizontal.png",
-      "videoURL": "https://raheelswati.github.io/promo/TapArrowEscape.mp4",
-      "portraitImageURL": "https://raheelswati.github.io/promo/ArrowVerticle.png",
-      "portraitVideoURL": "",
-      "priority": 106,
-      "isAmazonPaid": false,
-      "ageRating": 12,
-      "isActive": true
-    },
+    
+    
      {
       "gameTitle": "Football League 26 Pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike.pro",
