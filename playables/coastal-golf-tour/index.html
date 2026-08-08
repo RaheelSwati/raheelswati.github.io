@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <meta name="ad.orientation" content="portrait,landscape">
+  <title>Coastal Golf Tour</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="ad" aria-label="Coastal Golf Tour playable ad">
+    <canvas id="game" aria-label="Aim and shoot a golf ball"></canvas>
+    <header>
+      <div class="brand">COASTAL <span>GOLF TOUR</span></div>
+      <div class="wind">WIND ↗ 1.6 m/s</div>
+    </header>
+    <div id="prompt" role="status">DRAG TO AIM</div>
+    <section id="power" aria-label="Power meter">
+      <div class="meter"><i></i></div><b>TAP TO LOCK POWER</b>
+    </section>
+    <section id="end" aria-live="polite">
+      <p id="result">BIRDIE!</p>
+      <h1>PLAY THE FULL TOUR</h1>
+      <p>Scenic courses • Skill shots • Real 1v1</p>
+      <button id="install" type="button">INSTALL</button>
+      <button id="replay" type="button">REPLAY</button>
+    </section>
+    <footer>Drag anywhere to aim</footer>
+  </main>
+  <script src="config.js"></script>
+  <script src="network-adapter.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>

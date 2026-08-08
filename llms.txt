@@ -6,6 +6,8 @@ Official website: https://raheelswati.github.io/
 
 Important pages:
 - Home and game portfolio: https://raheelswati.github.io/
+- Coastal Golf Tour and interactive one-shot preview: https://raheelswati.github.io/games/coastal-golf-tour.html
+- Coastal Golf Tour playable: https://raheelswati.github.io/playables/coastal-golf-tour/
 - Edge of Survival: Island Quest: https://raheelswati.github.io/games/edge-of-survival.html
 - Boxing Stars: Real 3D Fight: https://raheelswati.github.io/games/boxing-stars.html
 - Bistro Empire: Food Tycoon: https://raheelswati.github.io/games/bistro-empire.html
@@ -27,6 +29,7 @@ Official profiles:
 - YouTube: https://www.youtube.com/@extrudestudio3513
 
 Main games and topics:
+- Coastal Golf Tour: skill golf, scenic courses, aim and power, online multiplayer
 - Edge of Survival: Island Quest / Untamed Survival Land: survival, crafting, island adventure
 - Boxing Stars: Real 3D Fight: boxing, fighting, sports
 - Bistro Empire: Food Tycoon: restaurant tycoon, simulation, idle food game

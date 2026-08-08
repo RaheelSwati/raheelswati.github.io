@@ -1,0 +1,22 @@
+(function(){
+  "use strict";
+  var canvas=document.getElementById("game"),ctx=canvas.getContext("2d"),prompt=document.getElementById("prompt"),power=document.getElementById("power"),fill=power.querySelector("i"),end=document.getElementById("end"),result=document.getElementById("result");
+  var state="aim",aim=0,powerValue=.72,powerDirection=1,last=0,flight=0,success=false,dragStart=null;
+  function size(){var d=Math.min(devicePixelRatio||1,2),r=canvas.getBoundingClientRect();canvas.width=Math.round(r.width*d);canvas.height=Math.round(r.height*d);ctx.setTransform(d,0,0,d,0,0)}
+  function dims(){return{w:canvas.clientWidth,h:canvas.clientHeight}}
+  function course(){var d=dims(),w=d.w,h=d.h;ctx.clearRect(0,0,w,h);var sky=ctx.createLinearGradient(0,0,0,h*.62);sky.addColorStop(0,"#53ade3");sky.addColorStop(1,"#c9efff");ctx.fillStyle=sky;ctx.fillRect(0,0,w,h);ctx.fillStyle="#168c9e";ctx.fillRect(0,h*.48,w,h*.52);ctx.fillStyle="#d6b66b";ctx.beginPath();ctx.ellipse(w*.5,h*.68,w*.34,h*.25,0,0,Math.PI*2);ctx.fill();ctx.fillStyle="#14944f";ctx.beginPath();ctx.ellipse(w*.5,h*.66,w*.29,h*.21,0,0,Math.PI*2);ctx.fill();ctx.fillStyle="#39b962";ctx.beginPath();ctx.ellipse(w*.5,h*.60,w*.17,h*.11,0,0,Math.PI*2);ctx.fill();var hole={x:w*.5,y:h*.56};ctx.strokeStyle="#fff";ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(hole.x,hole.y);ctx.lineTo(hole.x,hole.y-h*.14);ctx.stroke();ctx.fillStyle="#f3483f";ctx.beginPath();ctx.moveTo(hole.x,hole.y-h*.14);ctx.lineTo(hole.x+w*.08,hole.y-h*.115);ctx.lineTo(hole.x,hole.y-h*.09);ctx.fill();ctx.fillStyle="#15231d";ctx.beginPath();ctx.ellipse(hole.x,hole.y,8,3,0,0,Math.PI*2);ctx.fill();return hole}
+  function origin(){var d=dims();return{x:d.w*.5,y:d.h*.88}}
+  function target(){var d=dims(),o=origin(),hole={x:d.w*.5,y:d.h*.56};return{x:hole.x+aim*d.w*.22,y:hole.y}}
+  function trajectory(){var o=origin(),t=target();ctx.save();ctx.strokeStyle="#fff";ctx.lineWidth=4;ctx.setLineDash([10,9]);ctx.beginPath();ctx.moveTo(o.x,o.y);ctx.quadraticCurveTo((o.x+t.x)/2,o.y-dims().h*.42,t.x,t.y);ctx.stroke();ctx.restore();ctx.fillStyle="#fff";ctx.beginPath();ctx.arc(o.x,o.y,9,0,Math.PI*2);ctx.fill()}
+  function ballAt(t){var o=origin(),tar=target(),control={x:(o.x+tar.x)/2,y:o.y-dims().h*.42*powerValue};var u=1-t;return{x:u*u*o.x+2*u*t*control.x+t*t*tar.x,y:u*u*o.y+2*u*t*control.y+t*t*tar.y}}
+  function draw(){var hole=course();if(state==="aim"||state==="power")trajectory();if(state==="flight"){var p=ballAt(Math.min(flight,1));ctx.fillStyle="#fff";ctx.shadowColor="#0008";ctx.shadowBlur=5;ctx.beginPath();ctx.arc(p.x,p.y,Math.max(5,10-flight*5),0,Math.PI*2);ctx.fill();ctx.shadowBlur=0;if(flight>=1){success=Math.abs(p.x-hole.x)<dims().w*.055&&powerValue>.58&&powerValue<.89;finish()}}}
+  function loop(ts){var dt=Math.min((ts-last)/1000,.05)||0;last=ts;if(state==="power"){powerValue+=powerDirection*dt*.75;if(powerValue>=1||powerValue<=.12){powerDirection*=-1;powerValue=Math.max(.12,Math.min(1,powerValue))}fill.style.width=(powerValue*100)+"%"}if(state==="flight")flight+=dt*.43;draw();requestAnimationFrame(loop)}
+  function aimAt(x){var d=dims();aim=Math.max(-1,Math.min(1,(x-d.w*.5)/(d.w*.32)))}
+  function down(e){e.preventDefault();if(state==="aim"){dragStart=true;aimAt(e.clientX);prompt.textContent="RELEASE TO SET AIM"}else if(state==="power"){shoot()}}
+  function move(e){if(dragStart&&state==="aim")aimAt(e.clientX)}
+  function up(e){if(!dragStart||state!=="aim")return;dragStart=false;aimAt(e.clientX);state="power";prompt.style.display="none";power.style.display="block";PlayableNetwork.track("aim_complete")}
+  function shoot(){state="flight";flight=0;power.style.display="none";PlayableNetwork.track("shot")}
+  function finish(){state="end";result.textContent=success?"BIRDIE!":"SO CLOSE!";end.classList.add("show");PlayableNetwork.track(success?"success":"near_miss")}
+  function reset(){state="aim";aim=0;powerValue=.72;powerDirection=1;flight=0;end.classList.remove("show");prompt.style.display="block";prompt.textContent="DRAG TO AIM";PlayableNetwork.track("replay")}
+  canvas.addEventListener("pointerdown",down);canvas.addEventListener("pointermove",move);canvas.addEventListener("pointerup",up);canvas.addEventListener("pointercancel",up);document.getElementById("install").addEventListener("click",function(){PlayableNetwork.track("install_click");PlayableNetwork.install()});document.getElementById("replay").addEventListener("click",reset);window.addEventListener("resize",size);size();PlayableNetwork.track("loaded");requestAnimationFrame(loop);
+})();

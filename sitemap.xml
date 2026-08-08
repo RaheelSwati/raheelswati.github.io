@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>https://raheelswati.github.io/</loc>
-      <lastmod>2026-05-02</lastmod>
+      <lastmod>2026-08-08</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://raheelswati.github.io/games/coastal-golf-tour.html</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.95</priority>
+   </url>
+   <url>
+      <loc>https://raheelswati.github.io/playables/coastal-golf-tour/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.75</priority>
    </url>
    <url>
       <loc>https://raheelswati.github.io/games/edge-of-survival.html</loc>
