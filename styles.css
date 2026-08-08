@@ -614,6 +614,7 @@ h3,
     transition: transform 650ms var(--ease), filter 650ms var(--ease);
 }
 .game-card > video{width:100%;height:100%;object-fit:cover;transition:transform 700ms var(--ease)}.game-card:hover > video{transform:scale(1.04)}
+.game-trailer{position:absolute;inset:0;width:100%;height:100%;border:0;pointer-events:none}.official-trailer{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;border:1px solid var(--line);border-radius:20px;background:#000;box-shadow:0 24px 70px rgba(0,0,0,.45)}.official-trailer iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 
 .game-card::after {
     content: "";
