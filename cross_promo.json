@@ -1,7 +1,32 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-08T19:30:00+05:00",
+  "updatedAt": "2026-08-08T20:20:00+05:00",
   "promotions": [
+    {
+      "gameTitle": "Office Flip: Second Chance",
+      "packageName": "com.extrude.studio.office.flip",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip",
+      "portraitImageURL": "https://raheelswati.github.io/assets/screenshots/office-flip/gameplay-05.webp",
+      "imageURL": "https://raheelswati.github.io/assets/screenshots/office-flip/gameplay-05.webp",
+      "playableURL": "https://raheelswati.github.io/playables/office-flip/",
+      "creativeType": "playable",
+      "priority": 135,
+      "isAmazonPaid": false,
+      "ageRating": 3,
+      "isActive": true
+    },
+    {
+      "gameTitle": "Political Tennis: Parody Clash",
+      "packageName": "com.extrude.gaming.politicaltennis3d",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d",
+      "portraitImageURL": "https://raheelswati.github.io/assets/screenshots/political-tennis/gameplay-01.webp",
+      "imageURL": "https://raheelswati.github.io/assets/screenshots/political-tennis/gameplay-01.webp",
+      "creativeType": "image",
+      "priority": 125,
+      "isAmazonPaid": false,
+      "ageRating": 3,
+      "isActive": true
+    },
     {
       "gameTitle": "Coastal Golf Tour",
       "packageName": "com.extrudegaming.coastalgolftour",
@@ -69,6 +94,7 @@
     },
       {
       "gameTitle": "Football Glory League Pro",
+      "packageName": "com.extrudestudio.footballmasters.pro",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters.pro",
       "amazonStoreURL": "amzn://apps/android?p=com.extrudestudio.footballmasters.pro",
       "iosAppStoreURL": "https://apps.apple.com/us/app/world-soccer-champions-2026/id6785301993",
@@ -97,6 +123,7 @@
     },
      {
       "gameTitle": "Incredible Football Strike Pro2",
+      "packageName": "com.extrudestudio.footballmasters",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrikePro",
       "iosAppStoreURL": "https://apps.apple.com/us/app/world-soccer-champions-2026/id6785301993",
@@ -111,6 +138,7 @@
     },
       {
       "gameTitle": "Football League 26 Offline2",
+      "packageName": "com.extrudestudio.footballmasters",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrike",
       "iosAppStoreURL": "https://apps.apple.com/app/id6449290585",

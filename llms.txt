@@ -8,6 +8,10 @@ Important pages:
 - Home and game portfolio: https://raheelswati.github.io/
 - Coastal Golf Tour and interactive one-shot preview: https://raheelswati.github.io/games/coastal-golf-tour.html
 - Coastal Golf Tour playable: https://raheelswati.github.io/playables/coastal-golf-tour/
+- Pro Cricket 3D: Real Match and playable: https://raheelswati.github.io/games/pro-cricket-3d.html
+- Office Flip: Second Chance and design playable: https://raheelswati.github.io/games/office-flip.html
+- Political Tennis: Parody Clash: https://raheelswati.github.io/games/political-tennis.html
+- Football Glory League 2026 and official trailer: https://raheelswati.github.io/games/football-glory-league-2026.html
 - Edge of Survival: Island Quest: https://raheelswati.github.io/games/edge-of-survival.html
 - Boxing Stars: Real 3D Fight: https://raheelswati.github.io/games/boxing-stars.html
 - Bistro Empire: Food Tycoon: https://raheelswati.github.io/games/bistro-empire.html
@@ -30,6 +34,10 @@ Official profiles:
 
 Main games and topics:
 - Coastal Golf Tour: skill golf, scenic courses, aim and power, online multiplayer
+- Pro Cricket 3D: batting, bowling, cricket matches, Quick Online 1v1
+- Office Flip: story-driven office renovation, interior design, character customization
+- Political Tennis: humorous parody tennis, swipe controls, unlockable characters
+- Football Glory League 2026: offline soccer, leagues, cups and penalty shootouts
 - Edge of Survival: Island Quest / Untamed Survival Land: survival, crafting, island adventure
 - Boxing Stars: Real 3D Fight: boxing, fighting, sports
 - Bistro Empire: Food Tycoon: restaurant tycoon, simulation, idle food game
