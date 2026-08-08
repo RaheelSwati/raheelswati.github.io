@@ -6,10 +6,12 @@
   <meta name="ad.orientation" content="portrait,landscape">
   <title>Coastal Golf Tour</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="tease.css">
 </head>
 <body>
   <main id="ad" aria-label="Coastal Golf Tour playable ad">
     <canvas id="game" aria-label="Aim and shoot a golf ball"></canvas>
+    <section id="tease"><div><p>ONE SHOT. ONE RIVAL.</p><h1>CAN YOU<br><span>SINK IT?</span></h1><button id="teeoff" type="button">TAKE THE SHOT</button></div></section>
     <header>
       <div class="brand">COASTAL <span>GOLF TOUR</span></div>
       <div class="wind">WIND ↗ 1.6 m/s</div>
@@ -29,6 +31,7 @@
   </main>
   <script src="config.js"></script>
   <script src="network-adapter.js"></script>
+  <script>document.querySelector('#teeoff').addEventListener('click',()=>document.querySelector('#tease').remove());</script>
   <script src="game.js"></script>
 </body>
 </html>

@@ -34,8 +34,9 @@
       "ageRating": 12,
       "isActive": true
     }, 
-     {
+    {
       "gameTitle": "Pro Cricket 3D: Real Match",
+      "packageName": "com.extrude.studio.cricketarena3d",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.cricketarena3d",
       "amazonStoreURL": "",
       "iosAppStoreURL": "",
@@ -43,6 +44,8 @@
       "portraitVideoURL": "",
       "imageURL": "https://raheelswati.github.io/promo/CricketADHorizontal.png",
       "videoURL": "",
+      "playableURL": "https://raheelswati.github.io/playables/pro-cricket-3d/",
+      "creativeType": "playable",
       "priority": 120,
       "isAmazonPaid": false,
       "ageRating": 3,

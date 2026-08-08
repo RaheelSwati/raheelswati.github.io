@@ -271,6 +271,7 @@ h3,
     background: radial-gradient(circle at 15% 10%, rgba(22, 217, 227, .13), transparent 38%), linear-gradient(135deg, rgba(255, 200, 87, .08), rgba(17, 19, 25, .96));
     box-shadow: 0 34px 90px rgba(0, 0, 0, .35);
 }
+.cricket-heading{margin-top:100px}.cricket-spotlight{direction:rtl}.cricket-spotlight>*{direction:ltr}.cricket-shell{background:#071b18;border-color:rgba(255,196,54,.42)}
 .playable-shell { overflow: hidden; border: 1px solid rgba(255, 255, 255, .14); border-radius: 20px; background: #071d2b; box-shadow: 0 24px 60px rgba(0, 0, 0, .42); }
 .playable-toolbar { min-height: 48px; display: flex; justify-content: space-between; align-items: center; gap: 14px; padding: 10px 14px; color: #dce8ef; font-size: .82rem; font-weight: 800; text-transform: uppercase; }
 .playable-toolbar i, .playable-toolbar a { color: var(--amber); }
