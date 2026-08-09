@@ -1,12 +1,13 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-08T20:20:00+05:00",
+  "updatedAt": "2026-08-09T13:00:00+05:00",
   "promotions": [
     {
       "gameTitle": "Office Flip: Second Chance",
       "packageName": "com.extrude.studio.office.flip",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip",
       "portraitImageURL": "https://raheelswati.github.io/assets/screenshots/office-flip/gameplay-05.webp",
+      "portraitVideoURL": "https://raheelswati.github.io/promo/OfficeFlipADPortrait.mp4",
       "imageURL": "https://raheelswati.github.io/assets/screenshots/office-flip/gameplay-05.webp",
       "playableURL": "https://raheelswati.github.io/playables/office-flip/",
       "creativeType": "playable",
@@ -20,6 +21,7 @@
       "packageName": "com.extrude.gaming.politicaltennis3d",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d",
       "portraitImageURL": "https://raheelswati.github.io/assets/screenshots/political-tennis/gameplay-01.webp",
+      "portraitVideoURL": "https://raheelswati.github.io/promo/PoliticalTannisAdVertical.mp4",
       "imageURL": "https://raheelswati.github.io/assets/screenshots/political-tennis/gameplay-01.webp",
       "creativeType": "image",
       "priority": 125,
