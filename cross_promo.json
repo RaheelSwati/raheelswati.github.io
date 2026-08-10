@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-10T16:30:00+05:00",
+  "updatedAt": "2026-08-10T16:12:20+05:00",
   "promotions": [
     {
       "gameTitle": "Office Flip: Second Chance",
       "packageName": "com.extrude.studio.office.flip",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Doffice-flip-video-a",
       "amazonStoreURL": "",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
@@ -23,7 +23,7 @@
     {
       "gameTitle": "Office Flip: Second Chance",
       "packageName": "com.extrude.studio.office.flip",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Doffice-flip-video-b",
       "amazonStoreURL": "",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
@@ -41,7 +41,7 @@
     {
       "gameTitle": "Political Tennis: Parody Clash",
       "packageName": "com.extrude.gaming.politicaltennis3d",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dpolitical-tennis-video-a",
       "amazonStoreURL": "",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/PoliticalTennisFallback.jpg",
@@ -58,7 +58,7 @@
     {
       "gameTitle": "Political Tennis: Parody Clash",
       "packageName": "com.extrude.gaming.politicaltennis3d",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dpolitical-tennis-video-b",
       "amazonStoreURL": "",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/PoliticalTennisFallback.jpg",
@@ -75,7 +75,7 @@
     {
       "gameTitle": "Coastal Golf Tour",
       "packageName": "com.extrudegaming.coastalgolftour",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.coastalgolftour",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.coastalgolftour&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dcoastal-golf-tour",
       "amazonStoreURL": "",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/CoastalGolfPortrait.jpg",
@@ -88,11 +88,12 @@
       "priority": 140,
       "isAmazonPaid": false,
       "ageRating": 3,
-      "isActive": false
+      "isActive": false,
+      "creativeId": "coastal-golf-tour"
     },
     {
       "gameTitle": "Boxing Legends: 3D Real Fight",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.boxing",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.boxing&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dboxing-legends-3d-real-fight",
       "amazonStoreURL": "amzn://apps/android?p=com.extrudegaming.boxing",
       "iosAppStoreURL": "https://apps.apple.com/app/id6766527181",
       "portraitImageURL": "https://raheelswati.github.io/promo/BoxingGameVerticle.png",
@@ -102,12 +103,13 @@
       "priority": 110,
       "isAmazonPaid": false,
       "ageRating": 12,
-      "isActive": true
-    }, 
+      "isActive": true,
+      "creativeId": "boxing-legends-3d-real-fight"
+    },
     {
       "gameTitle": "Pro Cricket 3D: Real Match",
       "packageName": "com.extrude.studio.cricketarena3d",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.cricketarena3d",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.cricketarena3d&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dpro-cricket-3d-real-match",
       "amazonStoreURL": "",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/CricketAdPortrait.png",
@@ -119,13 +121,12 @@
       "priority": 120,
       "isAmazonPaid": false,
       "ageRating": 3,
-      "isActive": true
+      "isActive": true,
+      "creativeId": "pro-cricket-3d-real-match"
     },
-    
-    
-     {
+    {
       "gameTitle": "Football League 26 Pro",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike.pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike.pro&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dfootball-league-26-pro",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrikePro",
       "iosAppStoreURL": "https://apps.apple.com/us/app/world-soccer-champions-2026/id6785301993",
       "portraitImageURL": "https://raheelswati.github.io/promo/FGLPortraitInterstitial.png",
@@ -136,12 +137,13 @@
       "priority": 110,
       "isAmazonPaid": true,
       "ageRating": 3,
-      "isActive": true
+      "isActive": true,
+      "creativeId": "football-league-26-pro"
     },
-      {
+    {
       "gameTitle": "Football Glory League Pro",
       "packageName": "com.extrudestudio.footballmasters.pro",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters.pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters.pro&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dfootball-glory-league-pro",
       "amazonStoreURL": "amzn://apps/android?p=com.extrudestudio.footballmasters.pro",
       "iosAppStoreURL": "https://apps.apple.com/us/app/world-soccer-champions-2026/id6785301993",
       "portraitImageURL": "https://raheelswati.github.io/promo/FGLPortraitInterstitial.png",
@@ -152,11 +154,12 @@
       "priority": 119,
       "isAmazonPaid": true,
       "ageRating": 3,
-      "isActive": true
+      "isActive": true,
+      "creativeId": "football-glory-league-pro"
     },
-      {
+    {
       "gameTitle": "Football League 26 Offline",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.RaceStormStudio.IncredibleFootballStrike&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dfootball-league-26-offline",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrike",
       "iosAppStoreURL": "https://apps.apple.com/app/id6449290585",
       "portraitImageURL": "https://raheelswati.github.io/promo/FGLPortraitInterstitial.png",
@@ -167,12 +170,13 @@
       "priority": 116,
       "isAmazonPaid": true,
       "ageRating": 3,
-      "isActive": true
+      "isActive": true,
+      "creativeId": "football-league-26-offline"
     },
-     {
+    {
       "gameTitle": "Incredible Football Strike Pro2",
       "packageName": "com.extrudestudio.footballmasters",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dincredible-football-strike-pro2",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrikePro",
       "iosAppStoreURL": "https://apps.apple.com/us/app/world-soccer-champions-2026/id6785301993",
       "portraitImageURL": "https://raheelswati.github.io/promo/FGLPortraitInterstitial.png",
@@ -183,12 +187,13 @@
       "priority": 118,
       "isAmazonPaid": true,
       "ageRating": 3,
-      "isActive": true
+      "isActive": true,
+      "creativeId": "incredible-football-strike-pro2"
     },
-      {
+    {
       "gameTitle": "Football League 26 Offline2",
       "packageName": "com.extrudestudio.footballmasters",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.footballmasters&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dfootball-league-26-offline2",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.IncredibleFootballStrike",
       "iosAppStoreURL": "https://apps.apple.com/app/id6449290585",
       "portraitImageURL": "https://raheelswati.github.io/promo/FGLPortraitInterstitial.png",
@@ -199,9 +204,10 @@
       "priority": 117,
       "isAmazonPaid": true,
       "ageRating": 3,
-      "isActive": true
+      "isActive": true,
+      "creativeId": "football-league-26-offline2"
     },
-     {
+    {
       "gameTitle": "Super Spider Rope Hero Pro",
       "googlePlayURL": "",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.RaceStormStudio.spider.flying.rope.hero.pro",
@@ -213,7 +219,7 @@
       "ageRating": 3,
       "isActive": true
     },
-      {
+    {
       "gameTitle": "Flying Spider Rope Hero Two Pro",
       "googlePlayURL": "",
       "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.flying.spider.two.pro",
@@ -225,7 +231,7 @@
       "ageRating": 3,
       "isActive": true
     },
-     {
+    {
       "gameTitle": "Flying Spider Rope Hero Pro",
       "googlePlayURL": "",
       "amazonStoreURL": "com.Amazon.ExtrudeGaming.flying.man.spider.hero.games.pro",
