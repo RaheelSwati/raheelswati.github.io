@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-10T22:55:27+05:00",
+  "updatedAt": "2026-08-10T22:57:24+05:00",
   "promotions": [
     {
       "gameTitle": "Office Flip: Second Chance",
@@ -12,7 +12,7 @@
       "portraitVideoURL": "https://raheelswati.github.io/promo/OfficeFlipADPortrait.mp4",
       "imageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
       "videoURL": "https://raheelswati.github.io/promo/OfficeFlipHorizontal.mp4",
-      "playableURL": "",
+      "playableURL": "https://raheelswati.github.io/playables/office-flip/",
       "creativeType": "video",
       "creativeId": "office-flip-video-a",
       "priority": 68,
@@ -30,7 +30,7 @@
       "portraitVideoURL": "https://raheelswati.github.io/promo/OfficeFlipADPortrait.mp4",
       "imageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
       "videoURL": "https://raheelswati.github.io/promo/OfficeFlipHorizontal_2.mp4",
-      "playableURL": "",
+      "playableURL": "https://raheelswati.github.io/playables/office-flip/",
       "creativeType": "video",
       "creativeId": "office-flip-video-b",
       "priority": 67,
@@ -116,7 +116,7 @@
       "portraitVideoURL": "https://raheelswati.github.io/promo/ProCricket3D_Vertical.mp4",
       "imageURL": "https://raheelswati.github.io/promo/CricketADHorizontal.png",
       "videoURL": "https://raheelswati.github.io/promo/ProCricket3D_Horizontal.mp4",
-      "playableURL": "",
+      "playableURL": "https://raheelswati.github.io/playables/pro-cricket-3d/",
       "creativeType": "video",
       "priority": 120,
       "isAmazonPaid": false,
