@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-10T22:57:24+05:00",
+  "updatedAt": "2026-08-12T01:21:24+05:00",
   "promotions": [
     {
       "gameTitle": "Office Flip: Second Chance",
@@ -93,18 +93,38 @@
     },
     {
       "gameTitle": "Boxing Legends: 3D Real Fight",
+      "packageName": "com.extrudegaming.boxing",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.boxing&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dboxing-legends-3d-real-fight",
       "amazonStoreURL": "amzn://apps/android?p=com.extrudegaming.boxing",
       "iosAppStoreURL": "https://apps.apple.com/app/id6766527181",
       "portraitImageURL": "https://raheelswati.github.io/promo/BoxingGameVerticle.png",
-      "portraitVideoURL": "",
+      "portraitVideoURL": "https://raheelswati.github.io/promo/BoxingLegendsAD_Vertical.mp4",
       "imageURL": "https://raheelswati.github.io/promo/BoxingGameHorizontal.png",
-      "videoURL": "",
+      "videoURL": "https://raheelswati.github.io/promo/BoxingLegendsAD_Horizontal.mp4",
+      "creativeType": "video",
       "priority": 110,
       "isAmazonPaid": false,
       "ageRating": 12,
       "isActive": true,
       "creativeId": "boxing-legends-3d-real-fight"
+    },
+    {
+      "gameTitle": "Supermarket Empire Tycoon 3D",
+      "packageName": "com.ExtrudeGaming.SupermarketEmpire",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.SupermarketEmpire&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dsupermarket-empire-video-a",
+      "amazonStoreURL": "",
+      "iosAppStoreURL": "",
+      "portraitImageURL": "https://raheelswati.github.io/promo/SupermarketTycoon.png",
+      "portraitVideoURL": "https://raheelswati.github.io/promo/SupermarketEmpireAd_1_Vertical.mp4",
+      "imageURL": "https://raheelswati.github.io/promo/SupermarketTycoon.png",
+      "videoURL": "https://raheelswati.github.io/promo/SupermarketEmpireAd_1_Horizontal.mp4",
+      "playableURL": "",
+      "creativeType": "video",
+      "priority": 108,
+      "isAmazonPaid": false,
+      "ageRating": 3,
+      "isActive": true,
+      "creativeId": "supermarket-empire-video-a"
     },
     {
       "gameTitle": "Pro Cricket 3D: Real Match",
