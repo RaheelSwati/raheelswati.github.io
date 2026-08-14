@@ -1,1 +1,74 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><title>Office Flip: Second Chance — Design Challenge</title><link rel="stylesheet" href="style.css"></head><body><main id="game"><img id="room" src="../../assets/screenshots/office-flip/gameplay-01.webp" alt="Office Flip room"><div class="shade"></div><header><b>OFFICE FLIP</b><span>SECOND CHANCE STUDIO</span></header><section id="intro" class="panel"><small>NEW CLIENT CONTRACT</small><h1>TURN THIS SPACE<br><em>INTO A FRESH START</em></h1><p>Choose three finishing touches and complete the office.</p><button id="begin">START RENOVATION</button></section><section id="hud"><div><small>CLIENT GOAL</small><b>WARM • FOCUSED • WELCOMING</b></div><strong id="count">0 / 3</strong></section><section id="choices"><button data-icon="🪴">PLANT</button><button data-icon="🛋️">SOFA</button><button data-icon="💡">LIGHT</button><button data-icon="🖼️">ART</button></section><div id="placed"></div><section id="done" class="panel"><small>CONTRACT COMPLETE</small><h1>A ROOM WORTH<br><em>BEGINNING AGAIN</em></h1><p>Meet every client, customize the cast and build multi-floor offices.</p><a href="https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip" target="_blank" rel="noopener">PLAY FREE</a><button id="replay">DESIGN AGAIN</button></section><footer>Interactive preview inspired by official gameplay</footer></main><script src="game.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+  <meta name="ad.orientation" content="landscape,portrait">
+  <title>Office Flip: Second Chance — Playable Preview</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="game" aria-label="Office Flip playable preview">
+    <header class="topbar">
+      <div class="brand"><b>OFFICE FLIP</b><span>SECOND CHANCE</span></div>
+      <div class="progress"><span id="stepLabel">CLIENT BRIEF</span><b id="stepCount">1 / 3</b></div>
+    </header>
+
+    <section id="stage" class="stage">
+      <img id="room" src="../../assets/screenshots/office-flip/gameplay-07.webp" alt="The First Office renovation room" draggable="false">
+      <div class="room-tint"></div>
+      <button class="clutter paper" data-clutter aria-label="Clear scattered papers"><i></i><i></i><i></i></button>
+      <button class="clutter box" data-clutter aria-label="Clear moving box"><span></span></button>
+      <button class="clutter stain" data-clutter aria-label="Clean floor stain"><span></span></button>
+      <div class="dropzone zone-desk" data-kind="desk"><span>DESK</span></div>
+      <div class="dropzone zone-chair" data-kind="chair"><span>CHAIR</span></div>
+      <div class="dropzone zone-plant" data-kind="plant"><span>PLANT</span></div>
+      <div id="placed"></div>
+      <aside id="mayaReaction" class="reaction" aria-live="polite">
+        <img src="../../assets/screenshots/office-flip/gameplay-05.webp" alt="Maya reacts happily">
+        <div><b>MAYA</b><span id="reactionText">That already feels better!</span></div>
+      </aside>
+      <div id="toast" class="toast" aria-live="polite"></div>
+    </section>
+
+    <section id="brief" class="modal show">
+      <div class="brief-art"><img src="../../assets/screenshots/office-flip/gameplay-09.webp" alt="Maya's First Office story"></div>
+      <div class="modal-copy">
+        <small>CASE 01 · THE FIRST OFFICE</small>
+        <h1>GIVE MAYA<br><em>ROOM TO BEGIN</em></h1>
+        <p>Clear the forgotten studio, then build one warm, focused workspace.</p>
+        <ul><li>Clear 3 messes</li><li>Place desk, chair + plant</li></ul>
+        <button id="begin" class="primary">START THE FLIP</button>
+      </div>
+    </section>
+
+    <section id="cleanHud" class="task-card hidden">
+      <small>STEP 1 · PREPARE</small><b>Tap the mess to clear it</b><span id="cleanCount">0 / 3</span>
+    </section>
+
+    <section id="catalog" class="catalog hidden" aria-label="Furniture catalog">
+      <div class="catalog-head"><div><small>STEP 2 · FURNISH</small><b>Drag each item into its outline</b></div><span id="placeCount">0 / 3</span></div>
+      <div class="items">
+        <button class="item" data-kind="desk" aria-label="Drag oak work desk"><img src="assets/desk.png" alt="Oak work desk"><span>WORK DESK</span></button>
+        <button class="item" data-kind="chair" aria-label="Drag classic task chair"><img src="assets/chair.png" alt="Classic task chair"><span>TASK CHAIR</span></button>
+        <button class="item" data-kind="plant" aria-label="Drag creative plant"><img src="assets/plant.png" alt="Creative floor plant"><span>PLANT</span></button>
+      </div>
+      <button id="rotate" class="rotate hidden" aria-label="Rotate selected chair">↻ ROTATE CHAIR 45°</button>
+    </section>
+
+    <section id="done" class="modal result">
+      <div class="result-art"><img src="../../assets/screenshots/office-flip/gameplay-04.webp" alt="Maya celebrates her finished office"></div>
+      <div class="modal-copy">
+        <small>CONTRACT COMPLETE · 3 STARS</small>
+        <h1>YOU MADE ROOM<br><em>FOR A FRESH START</em></h1>
+        <p>Renovate expressive offices, meet every client and customize your cast.</p>
+        <button id="install" class="primary">PLAY OFFICE FLIP FREE</button>
+        <button id="replay" class="secondary">PLAY AGAIN</button>
+      </div>
+    </section>
+
+    <footer><span>Interactive gameplay preview</span><button id="footerInstall">GET THE GAME</button></footer>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>
