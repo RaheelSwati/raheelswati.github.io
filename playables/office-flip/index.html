@@ -1,1 +1,61 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><title>Office Flip: Second Chance — Design Challenge</title><link rel="stylesheet" href="style.css"></head><body><main id="game"><img id="room" src="../../assets/screenshots/office-flip/gameplay-01.webp" alt="Office Flip room"><div class="shade"></div><header><b>OFFICE FLIP</b><span>SECOND CHANCE STUDIO</span></header><section id="intro" class="panel"><small>NEW CLIENT CONTRACT</small><h1>TURN THIS SPACE<br><em>INTO A FRESH START</em></h1><p>Choose three finishing touches and complete the office.</p><button id="begin">START RENOVATION</button></section><section id="hud"><div><small>CLIENT GOAL</small><b>WARM • FOCUSED • WELCOMING</b></div><strong id="count">0 / 3</strong></section><section id="choices"><button data-icon="🪴">PLANT</button><button data-icon="🛋️">SOFA</button><button data-icon="💡">LIGHT</button><button data-icon="🖼️">ART</button></section><div id="placed"></div><section id="done" class="panel"><small>CONTRACT COMPLETE</small><h1>A ROOM WORTH<br><em>BEGINNING AGAIN</em></h1><p>Meet every client, customize the cast and build multi-floor offices.</p><a href="https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip" target="_blank" rel="noopener">PLAY FREE</a><button id="replay">DESIGN AGAIN</button></section><footer>Interactive preview inspired by official gameplay</footer></main><script src="game.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>Office Flip: Second Chance — Playable Preview</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    [hidden]{display:none!important}
+    .placed img{cursor:grab;touch-action:none;user-select:none;-webkit-user-drag:none}
+    .placed img.dragging{cursor:grabbing;filter:drop-shadow(0 12px 7px #22323d77) drop-shadow(0 0 5px #ffc857);z-index:10;animation:none}
+    .placed .lamp{width:14%;left:65%;top:37%}
+    footer strong{background:#284954;color:#d8ebe7;padding:8px 15px;border-radius:4px;letter-spacing:.5px}
+  </style>
+</head>
+<body>
+  <main class="ad-shell">
+    <header>
+      <div><b>OFFICE FLIP</b><span>SECOND CHANCE</span></div>
+      <div class="progress"><small>MAKE MAYA'S FIRST OFFICE</small><strong id="progress">0 / 6</strong></div>
+    </header>
+
+    <section class="game">
+      <aside class="maya-card" aria-live="polite">
+        <div class="portrait-wrap"><img id="maya" src="assets/maya-neutral.png" alt="Maya reacting"></div>
+        <div class="speech"><b id="mayaTitle">MAYA'S FIRST DAY</b><span id="mayaLine">Could you help me turn this empty room into a studio?</span></div>
+      </aside>
+
+      <div class="stage">
+        <div class="room" id="room">
+          <div class="wall wall-left"><i></i><i></i><i></i></div>
+          <div class="wall wall-right"><i></i><i></i></div>
+          <div class="floor"></div>
+          <button class="clutter papers" data-clean aria-label="Remove papers"><span>✦</span></button>
+          <button class="clutter box" data-clean aria-label="Remove moving box"><span>BOX</span></button>
+          <button class="clutter stain" data-clean aria-label="Clean floor stain"><span>SCRUB</span></button>
+          <div class="placed" id="placed"></div>
+        </div>
+        <div class="tip" id="tip">Tap the three marked items to clear the room.</div>
+      </div>
+
+      <aside class="tray">
+        <div class="tray-title"><b id="stepTitle">1 · CLEAR</b><span id="stepCopy">Remove the clutter</span></div>
+        <div id="catalog" class="catalog" hidden>
+          <button class="item" data-item="desk"><img src="assets/desk.png"><span>WORK DESK</span></button>
+          <button class="item" data-item="chair"><img src="assets/chair.png"><span>TASK CHAIR</span></button>
+          <button class="item" data-item="lamp"><img src="assets/lamp1.png"><span>FLOOR LAMP</span></button>
+        </div>
+        <button id="finish" class="finish" hidden>SEE MAYA'S NEW OFFICE</button>
+      </aside>
+    </section>
+
+    <footer><span>Playable preview · finish Maya's office to unlock the store link</span><strong>REWARD CONTINUES AFTER PLAY</strong></footer>
+    <div class="complete" id="complete" hidden>
+      <img src="assets/maya-happy.png" alt="Maya celebrating">
+      <div><small>CONTRACT COMPLETE</small><h1>An empty room became<br>Maya's first studio.</h1><p>Clean, furnish, and meet the people behind every office.</p><a id="download" href="#" target="_blank" rel="noopener">DOWNLOAD OFFICE FLIP</a><button id="replay">PLAY AGAIN</button></div>
+    </div>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>

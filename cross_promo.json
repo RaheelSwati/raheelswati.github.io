@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-12T01:21:24+05:00",
+  "updatedAt": "2026-08-15T02:05:00+05:00",
   "promotions": [
     {
       "gameTitle": "Office Flip: Second Chance",
       "packageName": "com.extrude.studio.office.flip",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Doffice-flip-video-a",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "",
+      "amazonStoreURL": "https://www.amazon.com/gp/product/B0HCVCDTNX",
+      "iosAppStoreURL": "https://apps.apple.com/app/id6797204686",
       "portraitImageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
       "portraitVideoURL": "https://raheelswati.github.io/promo/OfficeFlipADPortrait.mp4",
       "imageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
@@ -24,8 +24,8 @@
       "gameTitle": "Office Flip: Second Chance",
       "packageName": "com.extrude.studio.office.flip",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Doffice-flip-video-b",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "",
+      "amazonStoreURL": "https://www.amazon.com/gp/product/B0HCVCDTNX",
+      "iosAppStoreURL": "https://apps.apple.com/app/id6797204686",
       "portraitImageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
       "portraitVideoURL": "https://raheelswati.github.io/promo/OfficeFlipADPortrait.mp4",
       "imageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
