@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>Office Flip — Video + Playable</title>
+  <style>
+    *{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#102b35;font-family:Arial,sans-serif}main{position:relative;width:100%;height:100%;display:grid;place-items:center;background:#102b35}.media,iframe{width:100%;height:100%;border:0;object-fit:contain;background:#102b35}.cta{position:fixed;z-index:20;right:max(14px,env(safe-area-inset-right));bottom:max(14px,env(safe-area-inset-bottom));padding:14px 22px;border-radius:8px;background:#ed704a;color:#fff;text-decoration:none;font-weight:800;box-shadow:0 6px 20px #0008}.start{position:fixed;z-index:30;inset:0;border:0;background:#102b35e8;color:#fff;font-size:clamp(20px,4vw,42px);font-weight:800}.start small{display:block;margin-top:10px;color:#ffc857;font-size:.45em}.status{position:fixed;z-index:15;left:14px;top:14px;padding:8px 12px;border-radius:6px;background:#102b35dd;color:#fff;font-size:12px;font-weight:700}.hidden{display:none!important}
+  </style>
+</head>
+<body>
+  <main>
+    <video id="video" class="media" playsinline preload="auto"></video>
+    <iframe id="playable" class="hidden" title="Play Office Flip"></iframe>
+  </main>
+  <div id="status" class="status">REWARDED VIDEO · THEN PLAY</div>
+  <a id="download" class="cta" href="#" target="_blank" rel="noopener">GET OFFICE FLIP</a>
+  <button id="start" class="start">WATCH &amp; PLAY<small>Sound on · reward continues after video</small></button>
+  <script>
+    const stores={google:'https://play.google.com/store/apps/details?id=com.extrude.studio.office.flip',amazon:'https://www.amazon.com/gp/product/B0HCVCDTNX',ios:'https://apps.apple.com/app/id6797204686'};
+    const query=new URLSearchParams(location.search),ua=navigator.userAgent;
+    const store=query.get('store')||(/Silk|Kindle|KF[A-Z]/i.test(ua)?'amazon':/iPhone|iPad|iPod/i.test(ua)?'ios':'google');
+    const key=stores[store]?store:'google',download=document.querySelector('#download'),video=document.querySelector('#video'),playable=document.querySelector('#playable'),start=document.querySelector('#start'),status=document.querySelector('#status');
+    download.href=stores[key]; window.clickTag=stores[key];
+    const portrait=matchMedia('(orientation:portrait)').matches;
+    video.src=portrait?'../../promo/office-flip-h3/OfficeFlip_H3_PC_Ad_9x16.mp4':'../../promo/office-flip-h3/OfficeFlip_H3_PC_Ad_16x9.mp4';
+    function openPlayable(){video.classList.add('hidden');playable.classList.remove('hidden');playable.src=`../office-flip/?store=${key}&from=rewarded-video`;status.textContent='REWARD EARNED · TRY THE OFFICE';window.parent.postMessage({type:'officeFlipRewardedVideoComplete',store:key},'*');}
+    start.addEventListener('click',async()=>{start.classList.add('hidden');video.muted=false;try{await video.play()}catch(e){start.classList.remove('hidden');start.innerHTML='TAP TO START<small>Your browser blocked autoplay</small>'}});
+    video.addEventListener('ended',openPlayable);
+    video.addEventListener('error',openPlayable);
+  </script>
+</body>
+</html>

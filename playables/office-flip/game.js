@@ -8,6 +8,7 @@ const placed=document.querySelector('#placed');
 const finish=document.querySelector('#finish');
 const tip=document.querySelector('#tip');
 const download=document.querySelector('#download');
+const downloadPersistent=document.querySelector('#downloadPersistent');
 let cleaned=0, furnished=0;
 
 const stores={
@@ -27,7 +28,10 @@ function currentStore(){
 }
 const storeKey=currentStore(), store=stores[storeKey];
 download.href=store.url; download.textContent=store.label;
-download.addEventListener('click',event=>{if(window.mraid&&typeof window.mraid.open==='function'){event.preventDefault();window.mraid.open(store.url);}});
+downloadPersistent.href=store.url; downloadPersistent.textContent=store.label;
+function openStore(event){if(window.mraid&&typeof window.mraid.open==='function'){event.preventDefault();window.mraid.open(store.url);}}
+download.addEventListener('click',openStore);
+downloadPersistent.addEventListener('click',openStore);
 
 function react(kind,heading,copy){
   maya.src=`assets/maya-${kind}.png`;
