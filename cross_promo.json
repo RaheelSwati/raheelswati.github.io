@@ -13,7 +13,7 @@
       "imageURL": "https://raheelswati.github.io/promo/OfficeFlipFallback.jpg",
       "videoURL": "https://raheelswati.github.io/promo/office-flip-h3/OfficeFlip_H3_PC_Ad_16x9.mp4",
       "squareVideoURL": "https://raheelswati.github.io/promo/office-flip-h3/OfficeFlip_H3_PC_Ad_1x1.mp4",
-      "playableURL": "https://raheelswati.github.io/playables/office-flip/",
+      "playableURL": "https://raheelswati.github.io/playables/office-flip-branching/",
       "sequenceURL": "https://raheelswati.github.io/playables/office-flip-sequence/",
       "creativeType": "video_then_playable",
       "allowPlayableStandalone": false,

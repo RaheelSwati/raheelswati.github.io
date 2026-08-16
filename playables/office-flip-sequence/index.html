@@ -24,7 +24,7 @@
     download.href=stores[key]; window.clickTag=stores[key];
     const portrait=matchMedia('(orientation:portrait)').matches;
     video.src=portrait?'../../promo/office-flip-h3/OfficeFlip_H3_PC_Ad_9x16.mp4':'../../promo/office-flip-h3/OfficeFlip_H3_PC_Ad_16x9.mp4';
-    function openPlayable(){video.classList.add('hidden');playable.classList.remove('hidden');playable.src=`../office-flip/?store=${key}&from=rewarded-video`;status.textContent='REWARD EARNED · TRY THE OFFICE';window.parent.postMessage({type:'officeFlipRewardedVideoComplete',store:key},'*');}
+    function openPlayable(){video.classList.add('hidden');playable.classList.remove('hidden');playable.src=`../office-flip-branching/?store=${key}&from=rewarded-video`;status.textContent='REWARD EARNED · CHOOSE THE LAYOUT';window.parent.postMessage({type:'officeFlipRewardedVideoComplete',store:key},'*');}
     start.addEventListener('click',async()=>{start.classList.add('hidden');video.muted=false;try{await video.play()}catch(e){start.classList.remove('hidden');start.innerHTML='TAP TO START<small>Your browser blocked autoplay</small>'}});
     video.addEventListener('ended',openPlayable);
     video.addEventListener('error',openPlayable);

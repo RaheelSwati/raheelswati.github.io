@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+  <title>Office Flip — Choose the Layout</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="ad-shell">
+    <header>
+      <div class="brand"><b>OFFICE FLIP</b><span>SECOND CHANCE</span></div>
+      <div class="step"><small id="stepLabel">DESIGN CHALLENGE</small><strong id="stepCount">1 / 2</strong></div>
+    </header>
+
+    <section class="stage">
+      <video id="scene" playsinline preload="auto" muted></video>
+      <div id="flash" class="flash" aria-live="polite"></div>
+      <section id="decision" class="decision">
+        <small id="eyebrow">MAYA NEEDS YOUR HELP</small>
+        <h1 id="question">Where should the chair go?</h1>
+        <p id="hint">Make the workstation comfortable and usable.</p>
+        <div id="positionChoices" class="choices">
+          <button class="bad" data-action="wrong">TOO CLOSE TO DESK</button>
+          <button class="good" data-action="correct">IN THE FLOOR OUTLINE</button>
+        </div>
+        <div id="rotationChoices" class="choices" hidden>
+          <button class="bad" data-action="wrong-angle">FACE AWAY</button>
+          <button class="good" data-action="rotate">FACE THE DESK</button>
+        </div>
+      </section>
+      <section id="complete" class="complete" hidden>
+        <small>OFFICE SAVED</small>
+        <h1>You made work feel human.</h1>
+        <p>Design rooms. Meet their people. See every choice come alive.</p>
+        <a id="finalDownload" href="#" target="_blank" rel="noopener">GET OFFICE FLIP</a>
+        <button id="replay">PLAY AGAIN</button>
+      </section>
+    </section>
+
+    <footer>
+      <span>Playable preview · tap a choice to shape Maya's office</span>
+      <a id="download" href="#" target="_blank" rel="noopener">GET THE GAME</a>
+    </footer>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>
