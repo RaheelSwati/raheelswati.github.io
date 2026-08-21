@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-21T00:00:00+05:00",
+  "updatedAt": "2026-08-21T12:00:00+05:00",
   "promotions": [
     {
       "gameTitle": "Office Flip: Second Chance",
@@ -241,7 +241,7 @@
       "gameTitle": "Arrow Jam: Logic Puzzle",
       "packageName": "com.extrude.studio.arrow.jam",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.arrow.jam&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Darrow-jam-video-a",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.extrude.studio.arrow.jam",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/ArrowVerticle.png",
       "portraitVideoURL": "https://raheelswati.github.io/promo/ArrowJam_Vertical_A.mp4",
@@ -250,8 +250,8 @@
       "playableURL": "",
       "creativeType": "video",
       "creativeId": "arrow-jam-video-a",
-      "priority": 38,
-      "isAmazonPaid": false,
+      "priority": 483,
+      "isAmazonPaid": true,
       "ageRating": 3,
       "isActive": true
     },
@@ -259,7 +259,7 @@
       "gameTitle": "Arrow Jam: Logic Puzzle",
       "packageName": "com.extrude.studio.arrow.jam",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.arrow.jam&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Darrow-jam-video-b",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.extrude.studio.arrow.jam",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/ArrowVerticle.png",
       "portraitVideoURL": "https://raheelswati.github.io/promo/ArrowJam_Vertical_B.mp4",
@@ -268,8 +268,8 @@
       "playableURL": "",
       "creativeType": "video",
       "creativeId": "arrow-jam-video-b",
-      "priority": 38,
-      "isAmazonPaid": false,
+      "priority": 483,
+      "isAmazonPaid": true,
       "ageRating": 3,
       "isActive": true
     },
@@ -277,7 +277,7 @@
       "gameTitle": "Arrow Jam: Logic Puzzle",
       "packageName": "com.extrude.studio.arrow.jam",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.arrow.jam&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Darrow-jam-video-c",
-      "amazonStoreURL": "",
+      "amazonStoreURL": "amzn://apps/android?p=com.extrude.studio.arrow.jam",
       "iosAppStoreURL": "",
       "portraitImageURL": "https://raheelswati.github.io/promo/ArrowVerticle.png",
       "portraitVideoURL": "https://raheelswati.github.io/promo/ArrowJam_Vertical_C.mp4",
@@ -286,8 +286,8 @@
       "playableURL": "",
       "creativeType": "video",
       "creativeId": "arrow-jam-video-c",
-      "priority": 38,
-      "isAmazonPaid": false,
+      "priority": 483,
+      "isAmazonPaid": true,
       "ageRating": 3,
       "isActive": true
     },
