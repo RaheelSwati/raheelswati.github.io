@@ -29,7 +29,7 @@
       "packageName": "com.extrude.gaming.politicaltennis3d",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dpolitical-tennis-video-a",
       "amazonStoreURL": "",
-      "iosAppStoreURL": "",
+      "iosAppStoreURL": "https://apps.apple.com/hr/app/campaign-tennis-clash-3d/id6799526791",
       "portraitImageURL": "https://raheelswati.github.io/promo/PoliticalTennisFallback.jpg",
       "portraitVideoURL": "https://raheelswati.github.io/promo/PoliticalTannisAdVertical.mp4",
       "imageURL": "https://raheelswati.github.io/promo/PoliticalTennisFallback.jpg",
@@ -41,23 +41,7 @@
       "ageRating": 3,
       "isActive": true
     },
-    {
-      "gameTitle": "Political Tennis: Parody Clash",
-      "packageName": "com.extrude.gaming.politicaltennis3d",
-      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.gaming.politicaltennis3d&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dpolitical-tennis-video-b",
-      "amazonStoreURL": "",
-      "iosAppStoreURL": "",
-      "portraitImageURL": "https://raheelswati.github.io/promo/PoliticalTennisFallback.jpg",
-      "portraitVideoURL": "https://raheelswati.github.io/promo/PoliticalTannisAdVertical_2.mp4",
-      "imageURL": "https://raheelswati.github.io/promo/PoliticalTennisFallback.jpg",
-      "videoURL": "https://raheelswati.github.io/promo/PoliticalTannisAdHorizontal.mp4",
-      "creativeType": "video",
-      "creativeId": "political-tennis-video-b",
-      "priority": 62,
-      "isAmazonPaid": false,
-      "ageRating": 3,
-      "isActive": true
-    },
+    
     {
       "gameTitle": "Coastal Golf Tour",
       "packageName": "com.extrudegaming.coastalgolftour",
