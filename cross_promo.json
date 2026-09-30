@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-08-21T12:00:00+05:00",
+  "updatedAt": "2026-09-30T19:49:50+05:00",
   "promotions": [
     {
       "gameTitle": "Office Flip: Second Chance",
@@ -41,7 +41,6 @@
       "ageRating": 3,
       "isActive": true
     },
-    
     {
       "gameTitle": "Coastal Golf Tour",
       "packageName": "com.extrudegaming.coastalgolftour",
@@ -284,6 +283,60 @@
       "videoURL": "https://raheelswati.github.io/promo/SpiderHero.mp4",
       "priority": 110,
       "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    },
+    {
+      "gameTitle": "Tingle Toys Pro: ASMR Games",
+      "packageName": "com.ExtrudeGaming.popIt3D.Pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D.Pro&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dtingle-toys-video-a",
+      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.popIt3D.amazon.Pro",
+      "iosAppStoreURL": "",
+      "portraitImageURL": "https://raheelswati.github.io/promo/tingle-toys/interstitial-portrait.png",
+      "portraitVideoURL": "https://raheelswati.github.io/promo/tingle-toys/tingle-ad-a-portrait.mp4",
+      "imageURL": "https://raheelswati.github.io/promo/tingle-toys/interstitial-landscape.png",
+      "videoURL": "https://raheelswati.github.io/promo/tingle-toys/tingle-ad-a-landscape.mp4",
+      "creativeType": "video",
+      "persistentDownloadCTA": true,
+      "creativeId": "tingle-toys-video-a",
+      "priority": 600,
+      "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    },
+    {
+      "gameTitle": "Tingle Toys Pro: ASMR Games",
+      "packageName": "com.ExtrudeGaming.popIt3D.Pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D.Pro&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dtingle-toys-video-c",
+      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.popIt3D.amazon.Pro",
+      "iosAppStoreURL": "",
+      "portraitImageURL": "https://raheelswati.github.io/promo/tingle-toys/interstitial-portrait.png",
+      "portraitVideoURL": "https://raheelswati.github.io/promo/tingle-toys/tingle-ad-c-portrait.mp4",
+      "imageURL": "https://raheelswati.github.io/promo/tingle-toys/interstitial-landscape.png",
+      "videoURL": "https://raheelswati.github.io/promo/tingle-toys/tingle-ad-c-landscape.mp4",
+      "creativeType": "video",
+      "persistentDownloadCTA": true,
+      "creativeId": "tingle-toys-video-c",
+      "priority": 600,
+      "isAmazonPaid": true,
+      "ageRating": 3,
+      "isActive": true
+    },
+    {
+      "gameTitle": "Tingle Toys: ASMR Fidget Games",
+      "packageName": "com.ExtrudeGaming.popIt3D",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D&referrer=utm_source%3Dlegacy_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dtingle-toys-video-b",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.popIt3D",
+      "iosAppStoreURL": "",
+      "portraitImageURL": "https://raheelswati.github.io/promo/tingle-toys/interstitial-portrait.png",
+      "portraitVideoURL": "https://raheelswati.github.io/promo/tingle-toys/tingle-ad-b-portrait.mp4",
+      "imageURL": "https://raheelswati.github.io/promo/tingle-toys/interstitial-landscape.png",
+      "videoURL": "https://raheelswati.github.io/promo/tingle-toys/tingle-ad-b-landscape.mp4",
+      "creativeType": "video",
+      "persistentDownloadCTA": true,
+      "creativeId": "tingle-toys-video-b",
+      "priority": 550,
+      "isAmazonPaid": false,
       "ageRating": 3,
       "isActive": true
     }

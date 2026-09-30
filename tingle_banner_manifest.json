@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "integrationStatus": "requires_banner_renderer_support",
+  "promotions": [
+    {
+      "creativeId": "tingle-toys-banner-a",
+      "gameTitle": "Tingle Toys Pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D.Pro",
+      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.popIt3D.amazon.Pro",
+      "priority": 600,
+      "assets": {
+        "320x50": "https://raheelswati.github.io/promo/tingle-toys/banner-320x50.png",
+        "320x100": "https://raheelswati.github.io/promo/tingle-toys/banner-320x100.png",
+        "728x90": "https://raheelswati.github.io/promo/tingle-toys/banner-728x90.png"
+      }
+    },
+    {
+      "creativeId": "tingle-toys-banner-c",
+      "gameTitle": "Tingle Toys Pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D.Pro",
+      "amazonStoreURL": "amzn://apps/android?p=com.ExtrudeGaming.popIt3D.amazon.Pro",
+      "priority": 600,
+      "assets": {
+        "320x50": "https://raheelswati.github.io/promo/tingle-toys/banner-320x50.png",
+        "320x100": "https://raheelswati.github.io/promo/tingle-toys/banner-320x100.png",
+        "728x90": "https://raheelswati.github.io/promo/tingle-toys/banner-728x90.png"
+      }
+    },
+    {
+      "creativeId": "tingle-toys-banner-b",
+      "gameTitle": "Tingle Toys",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.popIt3D",
+      "amazonStoreURL": "amzn://apps/android?p=com.Amazon.ExtrudeGaming.popIt3D",
+      "priority": 550,
+      "assets": {
+        "320x50": "https://raheelswati.github.io/promo/tingle-toys/banner-320x50.png",
+        "320x100": "https://raheelswati.github.io/promo/tingle-toys/banner-320x100.png",
+        "728x90": "https://raheelswati.github.io/promo/tingle-toys/banner-728x90.png"
+      }
+    }
+  ]
+}
