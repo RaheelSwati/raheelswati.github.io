@@ -25,10 +25,10 @@
     .catalog-tools input{min-width:250px;max-width:100%;padding:.85rem 1rem;border:1px solid #646b75;border-radius:12px;background:#15181e;color:white;font:inherit}
     .catalog-section{padding:1.2rem 0 3rem}
     .catalog-section h2{font-size:1.8rem}
-    .game-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:1rem}
-    .game-card{border:1px solid #353b44;border-radius:16px;background:#14171c;padding:1.1rem;display:flex;flex-direction:column;min-height:145px}
-    .game-card h3{font-size:1.05rem;margin:0 0 .5rem}
-    .game-card p{color:#b9c0c9;margin:0 0 1rem}
+    .game-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));grid-auto-rows:auto;gap:1rem;align-items:stretch}
+    .game-card{border:1px solid #353b44;border-radius:16px;background:#14171c;padding:1.1rem;display:flex;flex-direction:column;align-items:stretch;min-height:0;height:auto}
+    .game-card h3{font-size:1.05rem;line-height:1.35;text-align:left;margin:0 0 .5rem}
+    .game-card p{color:#b9c0c9;text-align:left;margin:0 0 1rem}
     .store-link{margin-top:auto;color:#75c9ff;text-decoration:underline;text-underline-offset:3px}
     .catalog-note{border-left:3px solid #67b9f5;padding:.7rem 1rem;color:#c8cbd0;background:#12151a}
     .empty-message{display:none;color:#c8cbd0}
