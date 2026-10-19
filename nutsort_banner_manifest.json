@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-19T11:30:57+05:00",
+  "integrationStatus": "requires_banner_renderer_support",
+  "promotions": [
+    {
+      "creativeId": "nutsort-workshop-pro",
+      "gameTitle": "Nut Sort Pro: Workshop",
+      "packageName": "com.extrude.studio.nutsort.pro",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.nutsort.pro&referrer=utm_source%3Dstudio_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dnutsort-workshop-pro",
+      "amazonStoreURL": "amzn://apps/android?p=com.extrude.studio.nutsort.pro",
+      "priority": 165,
+      "isAmazonPaid": true,
+      "isActive": true,
+      "assets": {
+        "320x50": "https://raheelswati.github.io/promo/nutsort/pro/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/nutsort/pro/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/nutsort/pro/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/nutsort/pro/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/nutsort/pro/banner-1280x200.jpg"
+      }
+    },
+    {
+      "creativeId": "nutsort-workshop-free",
+      "gameTitle": "Nut Sort: Workshop",
+      "packageName": "com.extrude.studio.nutsort",
+      "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrude.studio.nutsort&referrer=utm_source%3Dstudio_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dnutsort-workshop-free",
+      "amazonStoreURL": "amzn://apps/android?p=com.extrude.studio.nutsort",
+      "priority": 110,
+      "isAmazonPaid": false,
+      "isActive": true,
+      "assets": {
+        "320x50": "https://raheelswati.github.io/promo/nutsort/free/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/nutsort/free/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/nutsort/free/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/nutsort/free/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/nutsort/free/banner-1280x200.jpg"
+      }
+    }
+  ]
+}
