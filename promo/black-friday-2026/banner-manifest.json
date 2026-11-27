@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T01:19:20+00:00",
+  "updatedAt": "2026-11-27T17:10:05+00:00",
   "integrationStatus": "requires_banner_renderer_support",
   "promotions": [
     {
@@ -758,7 +758,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 13,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "",
       "iosAppStoreURL": "",
@@ -766,11 +766,11 @@
       "itchStoreURL": "",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-avenpulse/sale/banner-1280x200.jpg"
       }
     },
     {
@@ -780,7 +780,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 13,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "",
       "iosAppStoreURL": "",
@@ -788,11 +788,11 @@
       "itchStoreURL": "",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-meta-vistalyra/sale/banner-1280x200.jpg"
       }
     },
     {
@@ -824,7 +824,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 13,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "",
       "iosAppStoreURL": "",
@@ -832,11 +832,11 @@
       "itchStoreURL": "https://raheelswati.itch.io/avenpulse-vr-fitness-flow",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-avenpulse/sale/banner-1280x200.jpg"
       }
     },
     {
@@ -846,7 +846,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 13,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "",
       "iosAppStoreURL": "",
@@ -854,11 +854,11 @@
       "itchStoreURL": "https://raheelswati.itch.io/vistalyra-quest-vr-video-player",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-vistalyra/sale/banner-1280x200.jpg"
       }
     },
     {
@@ -868,7 +868,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 13,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "",
       "iosAppStoreURL": "",
@@ -876,11 +876,11 @@
       "itchStoreURL": "https://raheelswati.itch.io/nut-sort-vr-bolts-workshop",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-itch-bolt-puzzle-workshop/sale/banner-1280x200.jpg"
       }
     },
     {
