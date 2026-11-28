@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-27T17:10:05+00:00",
+  "updatedAt": "2026-11-28T12:10:06+00:00",
   "integrationStatus": "requires_banner_renderer_support",
   "promotions": [
     {
@@ -538,7 +538,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 7,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.ExtrudeGaming.KartVSFormulaGrandPrix.pro&referrer=utm_source%3Dstudio_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dbf2026-play-kart-vs-formula-pro",
       "iosAppStoreURL": "",
@@ -546,11 +546,11 @@
       "itchStoreURL": "",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-kart-vs-formula-pro/sale/banner-1280x200.jpg"
       }
     },
     {
@@ -560,7 +560,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 13,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudegaming.nutsortvr.androidxr&referrer=utm_source%3Dstudio_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dbf2026-play-bolt-puzzle-workshop",
       "iosAppStoreURL": "",
@@ -568,11 +568,11 @@
       "itchStoreURL": "",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-bolt-puzzle-workshop/sale/banner-1280x200.jpg"
       }
     },
     {
@@ -582,7 +582,7 @@
       "isActive": true,
       "isAmazonPaid": false,
       "ageRating": 13,
-      "priority": 105,
+      "priority": 140,
       "amazonStoreURL": "",
       "googlePlayURL": "https://play.google.com/store/apps/details?id=com.extrudestudio.avenpulse.androidxr&referrer=utm_source%3Dstudio_crosspromo%26utm_medium%3Dhouse_ad%26utm_campaign%3Dbf2026-play-avenpulse",
       "iosAppStoreURL": "",
@@ -590,11 +590,11 @@
       "itchStoreURL": "",
       "picoStoreURL": "",
       "assets": {
-        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/standard/banner-320x50.jpg",
-        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/standard/banner-320x100.jpg",
-        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/standard/banner-728x90.jpg",
-        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/standard/banner-640x100.jpg",
-        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/standard/banner-1280x200.jpg"
+        "320x50": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/sale/banner-320x50.jpg",
+        "320x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/sale/banner-320x100.jpg",
+        "728x90": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/sale/banner-728x90.jpg",
+        "640x100": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/sale/banner-640x100.jpg",
+        "1280x200": "https://raheelswati.github.io/promo/black-friday-2026/bf2026-play-avenpulse/sale/banner-1280x200.jpg"
       }
     },
     {
